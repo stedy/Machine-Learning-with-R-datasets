@@ -1,0 +1,1001 @@
+"checking_balance","months_loan_duration","credit_history","purpose","amount","savings_balance","employment_length","installment_rate","personal_status","other_debtors","residence_history","property","age","installment_plan","housing","existing_credits","job","dependents","telephone","foreign_worker","default"
+"< 0 DM",6,"critical","radio/tv",1169,"unknown","> 7 yrs",4,"single male","none",4,"real estate",67,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",48,"repaid","radio/tv",5951,"< 100 DM","1 - 4 yrs",2,"female","none",2,"real estate",22,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",12,"critical","education",2096,"< 100 DM","4 - 7 yrs",2,"single male","none",3,"real estate",49,"none","own",1,"unskilled resident",2,"none","yes",1
+"< 0 DM",42,"repaid","furniture",7882,"< 100 DM","4 - 7 yrs",2,"single male","guarantor",4,"building society savings",45,"none","for free",1,"skilled employee",2,"none","yes",1
+"< 0 DM",24,"delayed","car (new)",4870,"< 100 DM","1 - 4 yrs",3,"single male","none",4,"unknown/none",53,"none","for free",2,"skilled employee",2,"none","yes",2
+"unknown",36,"repaid","education",9055,"unknown","1 - 4 yrs",2,"single male","none",4,"unknown/none",35,"none","for free",1,"unskilled resident",2,"yes","yes",1
+"unknown",24,"repaid","furniture",2835,"501 - 1000 DM","> 7 yrs",3,"single male","none",4,"building society savings",53,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"repaid","car (used)",6948,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",35,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","radio/tv",3059,"> 1000 DM","4 - 7 yrs",2,"divorced male","none",4,"real estate",61,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",30,"critical","car (new)",5234,"< 100 DM","unemployed",4,"married male","none",2,"other",28,"none","own",2,"mangement self-employed",1,"none","yes",2
+"1 - 200 DM",12,"repaid","car (new)",1295,"< 100 DM","0 - 1 yrs",3,"female","none",1,"other",25,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",48,"repaid","business",4308,"< 100 DM","0 - 1 yrs",3,"female","none",4,"building society savings",24,"none","rent",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"repaid","radio/tv",1567,"< 100 DM","1 - 4 yrs",1,"female","none",1,"other",22,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"critical","car (new)",1199,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",60,"none","own",2,"unskilled resident",1,"none","yes",2
+"< 0 DM",15,"repaid","car (new)",1403,"< 100 DM","1 - 4 yrs",2,"female","none",4,"other",28,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","radio/tv",1282,"101 - 500 DM","1 - 4 yrs",4,"female","none",2,"other",32,"none","own",1,"unskilled resident",1,"none","yes",2
+"unknown",24,"critical","radio/tv",2424,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",53,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",30,"fully repaid","business",8072,"unknown","0 - 1 yrs",2,"single male","none",3,"other",25,"bank","own",3,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"repaid","car (used)",12579,"< 100 DM","> 7 yrs",4,"female","none",2,"unknown/none",44,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",24,"repaid","radio/tv",3430,"501 - 1000 DM","> 7 yrs",3,"single male","none",2,"other",31,"none","own",1,"skilled employee",2,"yes","yes",1
+"unknown",9,"critical","car (new)",2134,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"other",48,"none","own",3,"skilled employee",1,"yes","yes",1
+"< 0 DM",6,"repaid","radio/tv",2647,"501 - 1000 DM","1 - 4 yrs",2,"single male","none",3,"real estate",44,"none","rent",1,"skilled employee",2,"none","yes",1
+"< 0 DM",10,"critical","car (new)",2241,"< 100 DM","0 - 1 yrs",1,"single male","none",3,"real estate",48,"none","rent",2,"unskilled resident",2,"none","no",1
+"1 - 200 DM",12,"critical","car (used)",1804,"101 - 500 DM","0 - 1 yrs",3,"single male","none",4,"building society savings",44,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",10,"critical","furniture",2069,"unknown","1 - 4 yrs",2,"married male","none",1,"other",26,"none","own",2,"skilled employee",1,"none","no",1
+"< 0 DM",6,"repaid","furniture",1374,"< 100 DM","1 - 4 yrs",1,"single male","none",2,"real estate",36,"bank","own",1,"unskilled resident",1,"yes","yes",1
+"unknown",6,"fully repaid","radio/tv",426,"< 100 DM","> 7 yrs",4,"married male","none",4,"other",39,"none","own",1,"unskilled resident",1,"none","yes",1
+"> 200 DM",12,"fully repaid this bank","radio/tv",409,"> 1000 DM","1 - 4 yrs",3,"female","none",3,"real estate",42,"none","rent",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",7,"repaid","radio/tv",2415,"< 100 DM","1 - 4 yrs",3,"single male","guarantor",2,"real estate",34,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",60,"delayed","business",6836,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",63,"none","own",2,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",18,"repaid","business",1913,"> 1000 DM","0 - 1 yrs",3,"married male","none",3,"real estate",36,"bank","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"repaid","furniture",4020,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",27,"stores","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","car (new)",5866,"101 - 500 DM","1 - 4 yrs",2,"single male","none",2,"other",30,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","business",1264,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",57,"none","rent",1,"unskilled resident",1,"none","yes",1
+"> 200 DM",12,"repaid","furniture",1474,"< 100 DM","0 - 1 yrs",4,"female","none",1,"building society savings",33,"bank","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",45,"critical","radio/tv",4746,"< 100 DM","0 - 1 yrs",4,"single male","none",2,"building society savings",25,"none","own",2,"unskilled resident",1,"none","yes",2
+"unknown",48,"critical","education",6110,"< 100 DM","1 - 4 yrs",1,"single male","none",3,"unknown/none",31,"bank","for free",1,"skilled employee",1,"yes","yes",1
+"> 200 DM",18,"repaid","radio/tv",2100,"< 100 DM","1 - 4 yrs",4,"single male","co-applicant",2,"real estate",37,"stores","own",1,"skilled employee",1,"none","yes",2
+"> 200 DM",10,"repaid","domestic appliances",1225,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",37,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",9,"repaid","radio/tv",458,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"real estate",24,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",30,"repaid","radio/tv",2333,"501 - 1000 DM","> 7 yrs",4,"single male","none",2,"other",30,"bank","own",1,"mangement self-employed",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1158,"501 - 1000 DM","1 - 4 yrs",3,"divorced male","none",1,"other",26,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"delayed","repairs",6204,"< 100 DM","1 - 4 yrs",2,"single male","none",4,"real estate",44,"none","own",1,"unskilled resident",2,"yes","yes",1
+"< 0 DM",30,"critical","car (used)",6187,"101 - 500 DM","4 - 7 yrs",1,"married male","none",4,"other",24,"none","rent",2,"skilled employee",1,"none","yes",1
+"< 0 DM",48,"critical","car (used)",6143,"< 100 DM","> 7 yrs",4,"female","none",4,"unknown/none",58,"stores","for free",2,"unskilled resident",1,"none","yes",2
+"unknown",11,"critical","car (new)",1393,"< 100 DM","0 - 1 yrs",4,"female","none",4,"other",35,"none","own",2,"mangement self-employed",1,"none","yes",1
+"unknown",36,"repaid","radio/tv",2299,"501 - 1000 DM","> 7 yrs",4,"single male","none",4,"other",39,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"repaid","car (used)",1352,"501 - 1000 DM","unemployed",1,"female","none",2,"building society savings",23,"none","rent",1,"unemployed non-resident",1,"yes","yes",1
+"unknown",11,"critical","car (new)",7228,"< 100 DM","1 - 4 yrs",1,"single male","none",4,"building society savings",39,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",12,"repaid","radio/tv",2073,"101 - 500 DM","1 - 4 yrs",4,"female","co-applicant",2,"real estate",28,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"delayed","furniture",2333,"unknown","0 - 1 yrs",4,"single male","none",2,"building society savings",29,"bank","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",27,"delayed","car (used)",5965,"< 100 DM","> 7 yrs",1,"single male","none",2,"other",30,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","radio/tv",1262,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"other",25,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","car (used)",3378,"unknown","1 - 4 yrs",2,"single male","none",1,"building society savings",31,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",36,"delayed","car (new)",2225,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",57,"bank","for free",2,"skilled employee",1,"yes","yes",2
+"unknown",6,"fully repaid this bank","car (new)",783,"unknown","1 - 4 yrs",1,"single male","guarantor",2,"real estate",26,"stores","own",1,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",6468,"unknown","unemployed",2,"single male","none",1,"unknown/none",52,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",36,"critical","radio/tv",9566,"< 100 DM","1 - 4 yrs",2,"female","none",2,"other",31,"stores","own",2,"skilled employee",1,"none","yes",1
+"> 200 DM",18,"repaid","car (new)",1961,"< 100 DM","> 7 yrs",3,"female","none",2,"other",23,"none","own",1,"mangement self-employed",1,"none","yes",1
+"< 0 DM",36,"critical","furniture",6229,"< 100 DM","0 - 1 yrs",4,"female","co-applicant",4,"unknown/none",23,"none","rent",2,"unskilled resident",1,"yes","yes",2
+"1 - 200 DM",9,"repaid","business",1391,"< 100 DM","1 - 4 yrs",2,"married male","none",1,"real estate",27,"bank","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",15,"critical","radio/tv",1537,"unknown","> 7 yrs",4,"single male","guarantor",4,"real estate",50,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",36,"fully repaid","business",1953,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",61,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",48,"fully repaid","business",14421,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",25,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",24,"repaid","radio/tv",3181,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",26,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",27,"repaid","repairs",5190,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",48,"none","own",4,"skilled employee",2,"yes","yes",1
+"unknown",12,"repaid","radio/tv",2171,"< 100 DM","0 - 1 yrs",2,"female","none",2,"other",29,"bank","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (new)",1007,"> 1000 DM","1 - 4 yrs",4,"married male","none",1,"real estate",22,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",36,"repaid","education",1819,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",37,"stores","for free",1,"skilled employee",1,"yes","yes",2
+"unknown",36,"repaid","radio/tv",2394,"unknown","1 - 4 yrs",4,"female","none",4,"other",25,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",36,"repaid","car (used)",8133,"< 100 DM","1 - 4 yrs",1,"female","none",2,"building society savings",30,"bank","own",1,"skilled employee",1,"none","yes",1
+"unknown",7,"critical","radio/tv",730,"unknown","> 7 yrs",4,"single male","none",2,"building society savings",46,"none","rent",2,"unskilled resident",1,"yes","yes",1
+"< 0 DM",8,"critical","others",1164,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",51,"bank","for free",2,"mangement self-employed",2,"yes","yes",1
+"1 - 200 DM",42,"critical","business",5954,"< 100 DM","4 - 7 yrs",2,"female","none",1,"real estate",41,"bank","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",36,"repaid","education",1977,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",40,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",12,"critical","car (used)",1526,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",66,"none","for free",2,"mangement self-employed",1,"none","yes",1
+"< 0 DM",42,"repaid","radio/tv",3965,"< 100 DM","0 - 1 yrs",4,"single male","none",3,"other",34,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",11,"delayed","radio/tv",4771,"< 100 DM","4 - 7 yrs",2,"single male","none",4,"building society savings",51,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",54,"fully repaid","car (used)",9436,"unknown","1 - 4 yrs",2,"single male","none",2,"building society savings",39,"none","own",1,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",30,"repaid","furniture",3832,"< 100 DM","0 - 1 yrs",2,"married male","none",1,"building society savings",22,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","radio/tv",5943,"unknown","0 - 1 yrs",1,"female","none",1,"other",44,"none","own",2,"skilled employee",1,"yes","yes",2
+"unknown",15,"repaid","radio/tv",1213,"501 - 1000 DM","> 7 yrs",4,"single male","none",3,"building society savings",47,"stores","own",1,"skilled employee",1,"yes","yes",1
+"unknown",18,"repaid","business",1568,"101 - 500 DM","1 - 4 yrs",3,"female","none",4,"building society savings",24,"none","rent",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",24,"repaid","others",1755,"< 100 DM","> 7 yrs",4,"female","guarantor",4,"real estate",58,"none","own",1,"unskilled resident",1,"yes","yes",1
+"< 0 DM",10,"repaid","radio/tv",2315,"< 100 DM","> 7 yrs",3,"single male","none",4,"real estate",52,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",12,"critical","business",1412,"< 100 DM","1 - 4 yrs",4,"female","guarantor",2,"real estate",29,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",18,"critical","furniture",1295,"< 100 DM","0 - 1 yrs",4,"female","none",1,"building society savings",27,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"repaid","education",12612,"101 - 500 DM","1 - 4 yrs",1,"single male","none",4,"unknown/none",47,"none","for free",1,"skilled employee",2,"yes","yes",2
+"< 0 DM",18,"repaid","car (new)",2249,"101 - 500 DM","4 - 7 yrs",4,"single male","none",3,"other",30,"none","own",1,"mangement self-employed",2,"yes","yes",1
+"< 0 DM",12,"fully repaid","repairs",1108,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"real estate",28,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",12,"critical","radio/tv",618,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",56,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"critical","car (used)",1409,"< 100 DM","> 7 yrs",4,"single male","none",3,"real estate",54,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","radio/tv",797,"unknown","> 7 yrs",4,"female","none",3,"building society savings",33,"bank","own",1,"unskilled resident",2,"none","yes",2
+"> 200 DM",24,"critical","furniture",3617,"unknown","> 7 yrs",4,"single male","co-applicant",4,"unknown/none",20,"none","rent",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (new)",1318,"> 1000 DM","> 7 yrs",4,"single male","none",4,"real estate",54,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",54,"fully repaid","business",15945,"< 100 DM","0 - 1 yrs",3,"single male","none",4,"unknown/none",58,"none","rent",1,"skilled employee",1,"yes","yes",2
+"unknown",12,"critical","education",2012,"unknown","4 - 7 yrs",4,"female","none",2,"other",61,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","business",2622,"101 - 500 DM","1 - 4 yrs",4,"single male","none",4,"other",34,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"critical","radio/tv",2337,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",36,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",20,"delayed","car (used)",7057,"unknown","4 - 7 yrs",3,"single male","none",4,"building society savings",36,"bank","rent",2,"mangement self-employed",2,"yes","yes",1
+"unknown",24,"repaid","car (new)",1469,"101 - 500 DM","> 7 yrs",4,"married male","none",4,"real estate",41,"none","rent",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",36,"repaid","radio/tv",2323,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"other",24,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",6,"delayed","radio/tv",932,"< 100 DM","1 - 4 yrs",3,"female","none",2,"real estate",24,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"critical","furniture",1919,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"other",35,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","car (used)",2445,"unknown","0 - 1 yrs",2,"married male","none",4,"other",26,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",24,"critical","others",11938,"< 100 DM","1 - 4 yrs",2,"single male","co-applicant",3,"other",39,"none","own",2,"mangement self-employed",2,"yes","yes",2
+"unknown",18,"fully repaid this bank","car (new)",6458,"< 100 DM","> 7 yrs",2,"single male","none",4,"unknown/none",39,"bank","own",2,"mangement self-employed",2,"yes","yes",2
+"1 - 200 DM",12,"repaid","car (new)",6078,"< 100 DM","4 - 7 yrs",2,"single male","none",2,"other",32,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","furniture",7721,"unknown","0 - 1 yrs",1,"female","none",2,"building society savings",30,"none","own",1,"skilled employee",1,"yes","no",1
+"1 - 200 DM",14,"repaid","business",1410,"501 - 1000 DM","> 7 yrs",1,"married male","none",2,"real estate",35,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",6,"delayed","business",1449,"101 - 500 DM","> 7 yrs",1,"divorced male","none",2,"other",31,"bank","own",2,"skilled employee",2,"none","yes",1
+"> 200 DM",15,"repaid","education",392,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",23,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"repaid","car (new)",6260,"< 100 DM","4 - 7 yrs",3,"single male","none",3,"real estate",28,"none","rent",1,"unskilled resident",1,"none","yes",1
+"unknown",36,"critical","car (new)",7855,"< 100 DM","1 - 4 yrs",4,"female","none",2,"real estate",25,"stores","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",12,"repaid","radio/tv",1680,"501 - 1000 DM","> 7 yrs",3,"married male","none",1,"real estate",35,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",48,"critical","radio/tv",3578,"unknown","> 7 yrs",4,"single male","none",1,"real estate",47,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",42,"repaid","radio/tv",7174,"unknown","4 - 7 yrs",4,"female","none",3,"other",30,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",10,"critical","furniture",2132,"unknown","0 - 1 yrs",2,"female","co-applicant",3,"real estate",27,"none","rent",2,"skilled employee",1,"none","no",1
+"< 0 DM",33,"critical","furniture",4281,"501 - 1000 DM","1 - 4 yrs",1,"female","none",4,"other",23,"none","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"critical","car (new)",2366,"501 - 1000 DM","4 - 7 yrs",3,"divorced male","none",3,"other",36,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",21,"repaid","radio/tv",1835,"< 100 DM","1 - 4 yrs",3,"female","none",2,"real estate",25,"none","own",2,"skilled employee",1,"yes","yes",2
+"unknown",24,"critical","car (used)",3868,"< 100 DM","> 7 yrs",4,"female","none",2,"other",41,"none","rent",2,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","furniture",1768,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",24,"none","rent",1,"unskilled resident",1,"none","yes",1
+"> 200 DM",10,"critical","car (new)",781,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",63,"none","for free",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"repaid","furniture",1924,"unknown","0 - 1 yrs",4,"female","none",3,"real estate",27,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",12,"critical","car (new)",2121,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",30,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","radio/tv",701,"< 100 DM","1 - 4 yrs",4,"married male","none",2,"real estate",40,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",12,"repaid","repairs",639,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",30,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"critical","car (used)",1860,"< 100 DM","unemployed",4,"single male","none",2,"other",34,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"critical","car (new)",3499,"< 100 DM","1 - 4 yrs",3,"female","co-applicant",2,"real estate",29,"none","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",48,"repaid","car (new)",8487,"unknown","4 - 7 yrs",1,"female","none",2,"other",24,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",36,"delayed","education",6887,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"building society savings",29,"stores","own",1,"skilled employee",1,"yes","yes",2
+"unknown",15,"repaid","furniture",2708,"< 100 DM","0 - 1 yrs",2,"single male","none",3,"building society savings",27,"bank","own",2,"unskilled resident",1,"none","yes",1
+"unknown",18,"repaid","furniture",1984,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",47,"bank","for free",2,"skilled employee",1,"none","yes",1
+"unknown",60,"repaid","radio/tv",10144,"101 - 500 DM","4 - 7 yrs",2,"female","none",4,"real estate",21,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","radio/tv",1240,"unknown","> 7 yrs",4,"female","none",2,"real estate",38,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",27,"delayed","car (used)",8613,"> 1000 DM","1 - 4 yrs",2,"single male","none",2,"other",27,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",766,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",3,"real estate",66,"none","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",15,"critical","radio/tv",2728,"unknown","4 - 7 yrs",4,"single male","guarantor",2,"real estate",35,"bank","own",3,"skilled employee",1,"yes","yes",1
+"> 200 DM",12,"repaid","radio/tv",1881,"< 100 DM","1 - 4 yrs",2,"female","none",2,"other",44,"none","rent",1,"unskilled resident",1,"yes","yes",1
+"> 200 DM",6,"repaid","car (new)",709,"> 1000 DM","0 - 1 yrs",2,"married male","none",2,"real estate",27,"none","own",1,"unemployed non-resident",1,"none","no",1
+"1 - 200 DM",36,"repaid","radio/tv",4795,"< 100 DM","0 - 1 yrs",4,"female","none",1,"unknown/none",30,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",27,"repaid","radio/tv",3416,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"other",27,"none","own",1,"mangement self-employed",1,"none","yes",1
+"< 0 DM",18,"repaid","furniture",2462,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",22,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",21,"critical","furniture",2288,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",23,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",48,"fully repaid this bank","business",3566,"101 - 500 DM","4 - 7 yrs",4,"single male","none",2,"other",30,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"critical","car (new)",860,"< 100 DM","> 7 yrs",1,"female","none",4,"unknown/none",39,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","car (new)",682,"101 - 500 DM","4 - 7 yrs",4,"female","none",3,"other",51,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",36,"critical","furniture",5371,"< 100 DM","1 - 4 yrs",3,"single male","guarantor",2,"building society savings",28,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","radio/tv",1582,"> 1000 DM","> 7 yrs",4,"single male","none",4,"other",46,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",6,"repaid","radio/tv",1346,"101 - 500 DM","> 7 yrs",2,"single male","none",4,"unknown/none",42,"bank","for free",1,"skilled employee",2,"yes","yes",1
+"unknown",10,"repaid","radio/tv",1924,"< 100 DM","1 - 4 yrs",1,"single male","none",4,"building society savings",38,"none","own",1,"skilled employee",1,"yes","no",1
+"> 200 DM",36,"repaid","radio/tv",5848,"< 100 DM","1 - 4 yrs",4,"single male","none",1,"other",24,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"critical","car (used)",7758,"> 1000 DM","> 7 yrs",2,"female","none",4,"unknown/none",29,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"delayed","business",6967,"101 - 500 DM","4 - 7 yrs",4,"single male","none",4,"other",36,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"repaid","furniture",1282,"< 100 DM","1 - 4 yrs",2,"female","none",4,"other",20,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",9,"critical","repairs",1288,"101 - 500 DM","> 7 yrs",3,"single male","guarantor",4,"real estate",48,"none","own",2,"skilled employee",2,"none","no",1
+"< 0 DM",12,"fully repaid this bank","retraining",339,"< 100 DM","> 7 yrs",4,"married male","none",1,"other",45,"bank","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","car (new)",3512,"101 - 500 DM","4 - 7 yrs",2,"single male","none",3,"other",38,"bank","own",2,"skilled employee",1,"yes","yes",1
+"unknown",6,"critical","radio/tv",1898,"unknown","1 - 4 yrs",1,"single male","none",2,"real estate",34,"none","own",2,"unskilled resident",2,"none","yes",1
+"unknown",24,"critical","radio/tv",2872,"101 - 500 DM","> 7 yrs",3,"single male","none",4,"real estate",36,"none","own",1,"skilled employee",2,"yes","yes",1
+"unknown",18,"critical","car (new)",1055,"< 100 DM","0 - 1 yrs",4,"female","none",1,"building society savings",30,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",15,"repaid","domestic appliances",1262,"501 - 1000 DM","4 - 7 yrs",4,"single male","none",3,"building society savings",36,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",10,"repaid","car (new)",7308,"< 100 DM","unemployed",2,"single male","none",4,"unknown/none",70,"bank","for free",1,"mangement self-employed",1,"yes","yes",1
+"unknown",36,"repaid","car (new)",909,"501 - 1000 DM","> 7 yrs",4,"single male","none",4,"building society savings",36,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",6,"repaid","furniture",2978,"501 - 1000 DM","1 - 4 yrs",1,"single male","none",2,"other",32,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"repaid","furniture",1131,"< 100 DM","unemployed",4,"female","none",2,"other",33,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",11,"repaid","furniture",1577,"> 1000 DM","0 - 1 yrs",4,"female","none",1,"real estate",20,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","furniture",3972,"< 100 DM","4 - 7 yrs",2,"female","none",4,"building society savings",25,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",24,"critical","business",1935,"< 100 DM","> 7 yrs",4,"divorced male","none",4,"real estate",31,"none","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",15,"fully repaid","car (new)",950,"< 100 DM","> 7 yrs",4,"single male","none",3,"other",33,"none","rent",2,"skilled employee",2,"none","yes",2
+"unknown",12,"repaid","furniture",763,"< 100 DM","1 - 4 yrs",4,"female","none",1,"real estate",26,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",24,"delayed","furniture",2064,"< 100 DM","unemployed",3,"female","none",2,"building society savings",34,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",8,"repaid","radio/tv",1414,"< 100 DM","1 - 4 yrs",4,"single male","guarantor",2,"real estate",33,"none","own",1,"skilled employee",1,"none","no",1
+"< 0 DM",21,"delayed","education",3414,"< 100 DM","0 - 1 yrs",2,"single male","none",1,"building society savings",26,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",30,"fully repaid this bank","car (used)",7485,"unknown","unemployed",4,"female","none",1,"real estate",53,"bank","own",1,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",12,"repaid","furniture",2577,"< 100 DM","1 - 4 yrs",2,"divorced male","none",1,"other",42,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"critical","radio/tv",338,"501 - 1000 DM","> 7 yrs",4,"single male","none",4,"other",52,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"repaid","radio/tv",1963,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"other",31,"none","rent",2,"mangement self-employed",2,"yes","yes",1
+"< 0 DM",21,"critical","car (new)",571,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",65,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",36,"delayed","business",9572,"< 100 DM","0 - 1 yrs",1,"divorced male","none",1,"other",28,"none","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",36,"delayed","business",4455,"< 100 DM","1 - 4 yrs",2,"divorced male","none",2,"real estate",30,"stores","own",2,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",21,"fully repaid this bank","car (new)",1647,"unknown","1 - 4 yrs",4,"single male","none",2,"building society savings",40,"none","own",2,"unskilled resident",2,"none","yes",2
+"unknown",24,"critical","furniture",3777,"> 1000 DM","1 - 4 yrs",4,"single male","none",4,"real estate",50,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"critical","car (new)",884,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",36,"bank","own",1,"skilled employee",2,"yes","yes",2
+"unknown",15,"critical","radio/tv",1360,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",31,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"fully repaid this bank","car (used)",5129,"< 100 DM","> 7 yrs",2,"female","none",4,"unknown/none",74,"bank","for free",1,"mangement self-employed",2,"yes","yes",2
+"1 - 200 DM",16,"critical","car (new)",1175,"< 100 DM","unemployed",2,"single male","none",3,"other",68,"none","for free",3,"unemployed non-resident",1,"yes","yes",1
+"< 0 DM",12,"repaid","radio/tv",674,"101 - 500 DM","4 - 7 yrs",4,"married male","none",1,"building society savings",20,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",18,"fully repaid","furniture",3244,"< 100 DM","1 - 4 yrs",1,"female","none",4,"other",33,"bank","own",2,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","business",4591,"> 1000 DM","1 - 4 yrs",2,"single male","none",3,"building society savings",54,"none","own",3,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",48,"fully repaid","business",3844,"101 - 500 DM","4 - 7 yrs",4,"single male","none",4,"unknown/none",34,"none","for free",1,"unskilled resident",2,"none","yes",2
+"1 - 200 DM",27,"repaid","business",3915,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",36,"none","own",1,"skilled employee",2,"yes","yes",2
+"unknown",6,"repaid","radio/tv",2108,"< 100 DM","4 - 7 yrs",2,"married male","none",2,"real estate",29,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",45,"repaid","radio/tv",3031,"101 - 500 DM","1 - 4 yrs",4,"single male","guarantor",4,"building society savings",21,"none","rent",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",9,"critical","education",1501,"< 100 DM","> 7 yrs",2,"female","none",3,"other",34,"none","own",2,"mangement self-employed",1,"yes","yes",2
+"unknown",6,"critical","radio/tv",1382,"< 100 DM","1 - 4 yrs",1,"female","none",1,"other",28,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","furniture",951,"101 - 500 DM","0 - 1 yrs",4,"female","none",4,"other",27,"bank","rent",4,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"repaid","car (used)",2760,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",36,"bank","for free",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"delayed","furniture",4297,"< 100 DM","> 7 yrs",4,"divorced male","none",3,"unknown/none",40,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",9,"critical","education",936,"501 - 1000 DM","> 7 yrs",4,"single male","none",2,"other",52,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"repaid","car (new)",1168,"< 100 DM","1 - 4 yrs",4,"married male","none",3,"real estate",27,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",27,"delayed","business",5117,"< 100 DM","4 - 7 yrs",3,"single male","none",4,"other",26,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","retraining",902,"< 100 DM","4 - 7 yrs",4,"married male","none",4,"building society savings",21,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",12,"critical","car (new)",1495,"< 100 DM","> 7 yrs",4,"single male","none",1,"real estate",38,"none","own",2,"unskilled resident",2,"none","yes",1
+"< 0 DM",30,"critical","car (used)",10623,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",38,"none","for free",3,"mangement self-employed",2,"yes","yes",1
+"unknown",12,"critical","furniture",1935,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",43,"none","own",3,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"critical","domestic appliances",1424,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"building society savings",26,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","business",6568,"< 100 DM","1 - 4 yrs",2,"married male","none",2,"other",21,"stores","own",1,"unskilled resident",1,"none","yes",1
+"unknown",12,"repaid","car (used)",1413,"> 1000 DM","4 - 7 yrs",3,"single male","none",2,"building society savings",55,"none","own",1,"skilled employee",1,"none","no",1
+"unknown",9,"critical","radio/tv",3074,"unknown","1 - 4 yrs",1,"single male","none",2,"real estate",33,"none","own",2,"skilled employee",2,"none","yes",1
+"unknown",36,"repaid","radio/tv",3835,"unknown","> 7 yrs",2,"female","none",4,"real estate",45,"none","own",1,"unskilled resident",1,"yes","yes",1
+"< 0 DM",27,"fully repaid","business",5293,"< 100 DM","unemployed",2,"single male","none",4,"building society savings",50,"stores","own",2,"skilled employee",1,"yes","yes",2
+"> 200 DM",30,"delayed","business",1908,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",66,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",36,"critical","radio/tv",3342,"unknown","> 7 yrs",4,"single male","none",2,"other",51,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",6,"critical","retraining",932,"unknown","4 - 7 yrs",1,"female","none",3,"building society savings",39,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",18,"fully repaid","business",3104,"< 100 DM","4 - 7 yrs",3,"single male","none",1,"building society savings",31,"bank","own",1,"skilled employee",1,"yes","yes",1
+"> 200 DM",36,"repaid","radio/tv",3913,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",23,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"repaid","furniture",3021,"< 100 DM","1 - 4 yrs",2,"divorced male","none",2,"real estate",24,"none","rent",1,"unskilled resident",1,"none","yes",1
+"unknown",10,"repaid","car (new)",1364,"< 100 DM","1 - 4 yrs",2,"female","none",4,"other",64,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",625,"< 100 DM","0 - 1 yrs",4,"married male","guarantor",1,"real estate",26,"bank","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",12,"repaid","education",1200,"unknown","1 - 4 yrs",4,"female","none",4,"building society savings",23,"bank","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","radio/tv",707,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"real estate",30,"bank","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"delayed","business",2978,"unknown","1 - 4 yrs",4,"single male","none",4,"real estate",32,"none","own",2,"skilled employee",2,"yes","yes",1
+"unknown",15,"repaid","car (used)",4657,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"other",30,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",36,"fully repaid","repairs",2613,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",27,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",48,"repaid","radio/tv",10961,"> 1000 DM","4 - 7 yrs",1,"single male","co-applicant",2,"unknown/none",27,"bank","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",12,"repaid","furniture",7865,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",53,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",9,"repaid","radio/tv",1478,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"other",22,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",24,"repaid","furniture",3149,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"unknown/none",22,"bank","for free",1,"skilled employee",1,"none","yes",1
+"> 200 DM",36,"repaid","radio/tv",4210,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",26,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",9,"repaid","car (new)",2507,"501 - 1000 DM","> 7 yrs",2,"single male","none",4,"unknown/none",51,"none","for free",1,"unskilled resident",1,"none","yes",1
+"unknown",12,"repaid","radio/tv",2141,"101 - 500 DM","4 - 7 yrs",3,"single male","none",1,"unknown/none",35,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","radio/tv",866,"< 100 DM","1 - 4 yrs",4,"married male","guarantor",2,"real estate",25,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",4,"critical","radio/tv",1544,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"real estate",42,"none","own",3,"unskilled resident",2,"none","yes",1
+"< 0 DM",24,"repaid","radio/tv",1823,"< 100 DM","unemployed",4,"single male","none",2,"other",30,"stores","own",1,"mangement self-employed",2,"none","yes",2
+"1 - 200 DM",6,"repaid","car (new)",14555,"unknown","unemployed",1,"single male","none",2,"building society savings",23,"none","own",1,"unemployed non-resident",1,"yes","yes",2
+"1 - 200 DM",21,"repaid","business",2767,"101 - 500 DM","> 7 yrs",4,"divorced male","none",2,"other",61,"bank","rent",2,"unskilled resident",1,"none","yes",2
+"unknown",12,"critical","radio/tv",1291,"< 100 DM","1 - 4 yrs",4,"female","none",2,"building society savings",35,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",30,"repaid","radio/tv",2522,"< 100 DM","> 7 yrs",1,"single male","guarantor",3,"building society savings",39,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",24,"repaid","car (new)",915,"unknown","> 7 yrs",4,"female","none",2,"other",29,"bank","own",1,"skilled employee",1,"none","yes",2
+"unknown",6,"repaid","radio/tv",1595,"< 100 DM","4 - 7 yrs",3,"single male","none",2,"building society savings",51,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",48,"fully repaid","car (used)",4605,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",24,"none","for free",2,"skilled employee",2,"none","yes",2
+"unknown",12,"critical","business",1185,"< 100 DM","1 - 4 yrs",3,"female","none",2,"real estate",27,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"fully repaid this bank","retraining",3447,"501 - 1000 DM","1 - 4 yrs",4,"female","none",3,"real estate",35,"none","own",1,"unskilled resident",2,"none","yes",1
+"unknown",24,"repaid","business",1258,"< 100 DM","4 - 7 yrs",4,"single male","none",1,"real estate",25,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","radio/tv",717,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",52,"none","own",3,"skilled employee",1,"none","yes",1
+"unknown",6,"fully repaid","car (new)",1204,"101 - 500 DM","1 - 4 yrs",4,"single male","none",1,"unknown/none",35,"bank","rent",1,"skilled employee",1,"none","no",1
+"> 200 DM",24,"repaid","furniture",1925,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",26,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","radio/tv",433,"< 100 DM","unemployed",3,"female","co-applicant",4,"real estate",22,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",6,"critical","car (new)",666,"> 1000 DM","4 - 7 yrs",3,"female","none",4,"real estate",39,"none","own",2,"unskilled resident",1,"yes","yes",1
+"> 200 DM",12,"repaid","furniture",2251,"< 100 DM","1 - 4 yrs",1,"female","none",2,"other",46,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",30,"repaid","car (new)",2150,"< 100 DM","1 - 4 yrs",4,"female","guarantor",2,"unknown/none",24,"bank","own",1,"skilled employee",1,"none","yes",2
+"unknown",24,"delayed","furniture",4151,"101 - 500 DM","1 - 4 yrs",2,"single male","none",3,"building society savings",35,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"repaid","furniture",2030,"unknown","4 - 7 yrs",2,"single male","none",1,"other",24,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",60,"delayed","radio/tv",7418,"unknown","1 - 4 yrs",1,"single male","none",1,"real estate",27,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",24,"critical","radio/tv",2684,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"real estate",35,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",12,"fully repaid this bank","radio/tv",2149,"< 100 DM","1 - 4 yrs",4,"divorced male","none",1,"unknown/none",29,"none","for free",1,"skilled employee",1,"none","yes",2
+"unknown",15,"repaid","car (used)",3812,"101 - 500 DM","0 - 1 yrs",1,"female","none",4,"other",23,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",11,"critical","radio/tv",1154,"101 - 500 DM","unemployed",4,"female","none",4,"real estate",57,"none","own",3,"unskilled resident",1,"none","yes",1
+"< 0 DM",12,"repaid","furniture",1657,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",27,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","radio/tv",1603,"< 100 DM","> 7 yrs",4,"female","none",4,"other",55,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"critical","car (new)",5302,"< 100 DM","> 7 yrs",2,"single male","none",4,"unknown/none",36,"none","for free",3,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"critical","education",2748,"< 100 DM","> 7 yrs",2,"female","none",4,"unknown/none",57,"bank","for free",3,"unskilled resident",1,"none","yes",1
+"unknown",10,"critical","car (new)",1231,"< 100 DM","> 7 yrs",3,"single male","none",4,"real estate",32,"none","own",2,"unskilled resident",2,"none","no",1
+"1 - 200 DM",15,"repaid","radio/tv",802,"< 100 DM","> 7 yrs",4,"single male","none",3,"other",37,"none","own",1,"skilled employee",2,"none","yes",2
+"unknown",36,"critical","business",6304,"unknown","> 7 yrs",4,"single male","none",4,"real estate",36,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","radio/tv",1533,"< 100 DM","0 - 1 yrs",4,"female","none",3,"other",38,"stores","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",14,"repaid","car (new)",8978,"< 100 DM","> 7 yrs",1,"divorced male","none",4,"building society savings",45,"none","own",1,"mangement self-employed",1,"yes","no",2
+"unknown",24,"repaid","radio/tv",999,"unknown","> 7 yrs",4,"single male","none",2,"other",25,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","car (new)",2662,"unknown","4 - 7 yrs",4,"single male","none",3,"building society savings",32,"none","own",1,"skilled employee",1,"none","no",1
+"unknown",12,"critical","furniture",1402,"501 - 1000 DM","4 - 7 yrs",3,"female","none",4,"other",37,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",48,"fully repaid this bank","car (new)",12169,"unknown","unemployed",4,"single male","co-applicant",4,"unknown/none",36,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",48,"repaid","radio/tv",3060,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"real estate",28,"none","own",2,"skilled employee",1,"none","yes",2
+"< 0 DM",30,"repaid","repairs",11998,"< 100 DM","0 - 1 yrs",1,"divorced male","none",1,"unknown/none",34,"none","own",1,"unskilled resident",1,"yes","yes",2
+"unknown",9,"repaid","radio/tv",2697,"< 100 DM","1 - 4 yrs",1,"single male","none",2,"real estate",32,"none","own",1,"skilled employee",2,"none","yes",1
+"unknown",18,"critical","radio/tv",2404,"< 100 DM","1 - 4 yrs",2,"female","none",2,"other",26,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","furniture",1262,"unknown","> 7 yrs",2,"divorced male","none",4,"building society savings",49,"none","own",1,"unskilled resident",1,"yes","yes",1
+"unknown",6,"repaid","furniture",4611,"< 100 DM","0 - 1 yrs",1,"female","none",4,"building society savings",32,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",24,"repaid","radio/tv",1901,"101 - 500 DM","1 - 4 yrs",4,"single male","none",4,"other",29,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",15,"critical","car (used)",3368,"> 1000 DM","> 7 yrs",3,"single male","none",4,"unknown/none",23,"none","rent",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","furniture",1574,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"real estate",50,"none","own",1,"skilled employee",1,"none","yes",1
+"> 200 DM",18,"fully repaid this bank","radio/tv",1445,"unknown","4 - 7 yrs",4,"single male","none",4,"other",49,"bank","own",1,"unskilled resident",1,"none","yes",1
+"unknown",15,"critical","furniture",1520,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",63,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"critical","car (new)",3878,"101 - 500 DM","0 - 1 yrs",4,"divorced male","none",2,"other",37,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",47,"repaid","car (new)",10722,"< 100 DM","0 - 1 yrs",1,"female","none",1,"real estate",35,"none","own",1,"unskilled resident",1,"yes","yes",1
+"< 0 DM",48,"repaid","car (used)",4788,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"building society savings",26,"none","own",1,"skilled employee",2,"none","yes",1
+"1 - 200 DM",48,"delayed","others",7582,"101 - 500 DM","unemployed",2,"single male","none",4,"unknown/none",31,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1092,"< 100 DM","1 - 4 yrs",4,"female","guarantor",4,"real estate",49,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"delayed","radio/tv",1024,"< 100 DM","0 - 1 yrs",4,"married male","none",4,"real estate",48,"stores","own",1,"skilled employee",1,"none","yes",2
+"unknown",12,"repaid","business",1076,"< 100 DM","1 - 4 yrs",2,"married male","none",2,"real estate",26,"none","own",1,"skilled employee",1,"yes","no",1
+"1 - 200 DM",36,"repaid","car (used)",9398,"< 100 DM","0 - 1 yrs",1,"married male","none",4,"other",28,"none","rent",1,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",24,"critical","car (used)",6419,"< 100 DM","> 7 yrs",2,"female","none",4,"unknown/none",44,"none","for free",2,"mangement self-employed",2,"yes","yes",1
+"> 200 DM",42,"critical","car (used)",4796,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",56,"none","for free",1,"skilled employee",1,"none","yes",1
+"unknown",48,"critical","business",7629,"unknown","> 7 yrs",4,"divorced male","none",2,"other",46,"bank","own",2,"mangement self-employed",2,"none","yes",1
+"1 - 200 DM",48,"repaid","furniture",9960,"< 100 DM","0 - 1 yrs",1,"female","none",2,"other",26,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",12,"repaid","car (used)",4675,"unknown","0 - 1 yrs",1,"female","none",4,"other",20,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",10,"repaid","car (new)",1287,"unknown","> 7 yrs",4,"single male","co-applicant",2,"building society savings",45,"none","own",1,"unskilled resident",1,"none","no",1
+"unknown",18,"repaid","furniture",2515,"< 100 DM","1 - 4 yrs",3,"single male","none",4,"real estate",43,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",21,"critical","furniture",2745,"> 1000 DM","4 - 7 yrs",3,"single male","none",2,"other",32,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",6,"repaid","car (new)",672,"< 100 DM","unemployed",1,"female","none",4,"real estate",54,"none","own",1,"unemployed non-resident",1,"yes","yes",1
+"1 - 200 DM",36,"fully repaid","radio/tv",3804,"< 100 DM","1 - 4 yrs",4,"female","none",1,"other",42,"none","own",1,"skilled employee",1,"yes","yes",2
+"> 200 DM",24,"critical","car (new)",1344,"unknown","4 - 7 yrs",4,"single male","none",2,"real estate",37,"bank","own",2,"unskilled resident",2,"none","yes",2
+"< 0 DM",10,"critical","car (new)",1038,"< 100 DM","4 - 7 yrs",4,"single male","co-applicant",3,"building society savings",49,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",48,"critical","car (new)",10127,"501 - 1000 DM","1 - 4 yrs",2,"single male","none",2,"unknown/none",44,"bank","for free",1,"skilled employee",1,"none","yes",2
+"unknown",6,"repaid","furniture",1543,"> 1000 DM","1 - 4 yrs",4,"divorced male","none",2,"real estate",33,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",30,"repaid","car (used)",4811,"unknown","4 - 7 yrs",2,"female","none",4,"building society savings",24,"stores","rent",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",12,"repaid","radio/tv",727,"101 - 500 DM","0 - 1 yrs",4,"married male","none",3,"unknown/none",33,"none","own",1,"unskilled resident",1,"yes","yes",2
+"1 - 200 DM",8,"repaid","furniture",1237,"< 100 DM","1 - 4 yrs",3,"female","none",4,"real estate",24,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",9,"repaid","car (new)",276,"< 100 DM","1 - 4 yrs",4,"married male","none",4,"real estate",22,"none","rent",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",48,"repaid","others",5381,"unknown","unemployed",3,"single male","none",4,"unknown/none",40,"bank","for free",1,"unemployed non-resident",1,"yes","yes",1
+"unknown",24,"repaid","furniture",5511,"101 - 500 DM","1 - 4 yrs",4,"single male","none",1,"other",25,"stores","own",1,"skilled employee",1,"none","yes",1
+"> 200 DM",24,"repaid","furniture",3749,"< 100 DM","0 - 1 yrs",2,"female","none",4,"other",26,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (new)",685,"< 100 DM","4 - 7 yrs",2,"married male","none",3,"other",25,"bank","own",1,"unskilled resident",1,"none","yes",2
+"> 200 DM",4,"repaid","car (new)",1494,"unknown","0 - 1 yrs",1,"single male","none",2,"real estate",29,"none","own",1,"unskilled resident",2,"none","no",1
+"< 0 DM",36,"fully repaid this bank","furniture",2746,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",31,"bank","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",12,"repaid","furniture",708,"< 100 DM","1 - 4 yrs",2,"single male","guarantor",3,"building society savings",38,"none","own",1,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",24,"repaid","furniture",4351,"unknown","1 - 4 yrs",1,"female","none",4,"building society savings",48,"none","own",1,"unskilled resident",1,"yes","yes",1
+"unknown",12,"critical","education",701,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",32,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",15,"delayed","furniture",3643,"< 100 DM","> 7 yrs",1,"female","none",4,"building society savings",27,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",30,"critical","car (new)",4249,"< 100 DM","unemployed",4,"married male","none",2,"other",28,"none","own",2,"mangement self-employed",1,"none","yes",2
+"< 0 DM",24,"repaid","radio/tv",1938,"< 100 DM","0 - 1 yrs",4,"divorced male","none",3,"building society savings",32,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",24,"repaid","car (used)",2910,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"unknown/none",34,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",18,"repaid","furniture",2659,"> 1000 DM","1 - 4 yrs",4,"single male","none",2,"other",28,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","car (new)",1028,"< 100 DM","1 - 4 yrs",4,"female","none",3,"real estate",36,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",8,"critical","car (new)",3398,"< 100 DM","4 - 7 yrs",1,"single male","none",4,"real estate",39,"none","own",2,"unskilled resident",1,"none","no",1
+"unknown",12,"critical","furniture",5801,"unknown","> 7 yrs",2,"single male","none",4,"building society savings",49,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","car (new)",1525,"> 1000 DM","4 - 7 yrs",4,"female","none",3,"other",34,"none","own",1,"skilled employee",2,"yes","yes",1
+"> 200 DM",36,"repaid","radio/tv",4473,"< 100 DM","> 7 yrs",4,"single male","none",2,"other",31,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",6,"repaid","radio/tv",1068,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",28,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",24,"critical","car (used)",6615,"< 100 DM","unemployed",2,"single male","none",4,"unknown/none",75,"none","for free",2,"mangement self-employed",1,"yes","yes",1
+"unknown",18,"critical","education",1864,"101 - 500 DM","1 - 4 yrs",4,"female","none",2,"real estate",30,"none","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",60,"repaid","car (new)",7408,"101 - 500 DM","0 - 1 yrs",4,"female","none",2,"building society savings",24,"none","own",1,"mangement self-employed",1,"none","yes",2
+"unknown",48,"critical","car (used)",11590,"101 - 500 DM","1 - 4 yrs",2,"female","none",4,"other",24,"bank","rent",2,"unskilled resident",1,"none","yes",2
+"< 0 DM",24,"fully repaid","furniture",4110,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",23,"bank","rent",2,"skilled employee",2,"none","yes",2
+"< 0 DM",6,"critical","furniture",3384,"< 100 DM","1 - 4 yrs",1,"divorced male","none",4,"real estate",44,"none","rent",1,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",13,"repaid","radio/tv",2101,"< 100 DM","0 - 1 yrs",2,"female","guarantor",4,"building society savings",23,"none","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",15,"repaid","domestic appliances",1275,"unknown","1 - 4 yrs",4,"female","none",2,"other",24,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",24,"repaid","furniture",4169,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"building society savings",28,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",10,"repaid","furniture",1521,"< 100 DM","1 - 4 yrs",4,"divorced male","none",2,"other",31,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"critical","education",5743,"< 100 DM","0 - 1 yrs",2,"female","none",4,"unknown/none",24,"none","for free",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",21,"repaid","furniture",3599,"< 100 DM","4 - 7 yrs",1,"female","none",4,"other",26,"none","rent",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",18,"repaid","radio/tv",3213,"501 - 1000 DM","0 - 1 yrs",1,"married male","none",3,"real estate",25,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","business",4439,"< 100 DM","> 7 yrs",1,"single male","co-applicant",1,"real estate",33,"bank","own",1,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",10,"repaid","car (new)",3949,"< 100 DM","0 - 1 yrs",1,"single male","guarantor",1,"building society savings",37,"none","own",1,"unskilled resident",2,"none","yes",1
+"unknown",15,"critical","radio/tv",1459,"< 100 DM","1 - 4 yrs",4,"female","none",2,"other",43,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",13,"critical","radio/tv",882,"< 100 DM","0 - 1 yrs",4,"single male","guarantor",4,"real estate",23,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"repaid","radio/tv",3758,"501 - 1000 DM","unemployed",1,"female","none",4,"unknown/none",23,"none","rent",1,"unemployed non-resident",1,"none","yes",1
+"unknown",6,"delayed","business",1743,"101 - 500 DM","1 - 4 yrs",1,"single male","none",2,"real estate",34,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",9,"critical","education",1136,"> 1000 DM","> 7 yrs",4,"single male","none",3,"unknown/none",32,"none","for free",2,"skilled employee",2,"none","yes",2
+"unknown",9,"repaid","domestic appliances",1236,"< 100 DM","0 - 1 yrs",1,"female","none",4,"real estate",23,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",9,"repaid","furniture",959,"< 100 DM","1 - 4 yrs",1,"female","none",2,"other",29,"none","own",1,"skilled employee",1,"none","no",2
+"unknown",18,"critical","car (used)",3229,"unknown","unemployed",2,"single male","none",4,"unknown/none",38,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"fully repaid","radio/tv",6199,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",28,"none","rent",2,"skilled employee",1,"yes","yes",2
+"unknown",10,"repaid","education",727,"501 - 1000 DM","> 7 yrs",4,"single male","none",4,"unknown/none",46,"none","for free",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",24,"repaid","car (new)",1246,"< 100 DM","0 - 1 yrs",4,"single male","none",2,"real estate",23,"stores","own",1,"unskilled resident",1,"none","yes",2
+"unknown",12,"critical","radio/tv",2331,"unknown","> 7 yrs",1,"single male","co-applicant",4,"real estate",49,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",36,"delayed","radio/tv",4463,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",26,"none","own",2,"mangement self-employed",1,"yes","yes",2
+"unknown",12,"repaid","radio/tv",776,"< 100 DM","1 - 4 yrs",4,"married male","none",2,"real estate",28,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",30,"repaid","furniture",2406,"< 100 DM","4 - 7 yrs",4,"female","none",4,"real estate",23,"none","rent",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",18,"repaid","education",1239,"unknown","1 - 4 yrs",4,"single male","none",4,"unknown/none",61,"none","for free",1,"skilled employee",1,"none","yes",1
+"> 200 DM",12,"repaid","radio/tv",3399,"unknown","> 7 yrs",2,"single male","none",3,"other",37,"none","own",1,"mangement self-employed",1,"none","yes",1
+"> 200 DM",12,"delayed","car (new)",2247,"< 100 DM","1 - 4 yrs",2,"female","none",2,"other",36,"stores","own",2,"skilled employee",1,"yes","yes",1
+"unknown",6,"repaid","furniture",1766,"< 100 DM","1 - 4 yrs",1,"married male","none",2,"building society savings",21,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","furniture",2473,"< 100 DM","unemployed",4,"single male","none",1,"other",25,"none","own",1,"unemployed non-resident",1,"none","yes",2
+"unknown",12,"repaid","business",1542,"< 100 DM","4 - 7 yrs",2,"single male","none",4,"other",36,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",18,"critical","car (used)",3850,"< 100 DM","4 - 7 yrs",3,"single male","none",1,"other",27,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","furniture",3650,"< 100 DM","0 - 1 yrs",1,"female","none",4,"other",22,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",36,"repaid","furniture",3446,"< 100 DM","> 7 yrs",4,"single male","none",2,"other",42,"none","own",1,"skilled employee",2,"none","yes",2
+"1 - 200 DM",18,"repaid","furniture",3001,"< 100 DM","4 - 7 yrs",2,"female","none",4,"real estate",40,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",36,"repaid","car (new)",3079,"unknown","1 - 4 yrs",4,"single male","none",4,"real estate",36,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","radio/tv",6070,"< 100 DM","> 7 yrs",3,"single male","none",4,"other",33,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",10,"critical","furniture",2146,"< 100 DM","0 - 1 yrs",1,"female","none",3,"real estate",23,"none","rent",2,"skilled employee",1,"none","yes",1
+"unknown",60,"critical","car (new)",13756,"unknown","> 7 yrs",2,"single male","none",4,"unknown/none",63,"bank","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",60,"fully repaid this bank","others",14782,"101 - 500 DM","> 7 yrs",3,"female","none",4,"unknown/none",60,"bank","for free",2,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",48,"fully repaid this bank","business",7685,"< 100 DM","4 - 7 yrs",2,"female","guarantor",4,"other",37,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",18,"delayed","radio/tv",2320,"< 100 DM","unemployed",2,"married male","none",3,"real estate",34,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",7,"delayed","radio/tv",846,"unknown","> 7 yrs",3,"single male","none",4,"unknown/none",36,"none","for free",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"repaid","car (new)",14318,"< 100 DM","> 7 yrs",4,"single male","none",2,"unknown/none",57,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",6,"critical","car (new)",362,"101 - 500 DM","1 - 4 yrs",4,"female","none",4,"other",52,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",20,"repaid","furniture",2212,"unknown","4 - 7 yrs",4,"single male","none",4,"other",39,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"repaid","car (used)",12976,"< 100 DM","unemployed",3,"female","none",4,"unknown/none",38,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",22,"repaid","car (new)",1283,"unknown","4 - 7 yrs",4,"female","none",4,"building society savings",25,"none","rent",1,"skilled employee",1,"none","yes",1
+"> 200 DM",12,"repaid","car (new)",1330,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"real estate",26,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",30,"delayed","business",4272,"101 - 500 DM","1 - 4 yrs",2,"single male","none",2,"building society savings",26,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",18,"critical","radio/tv",2238,"< 100 DM","1 - 4 yrs",2,"female","none",1,"other",25,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","radio/tv",1126,"unknown","0 - 1 yrs",4,"female","none",2,"real estate",21,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"critical","furniture",7374,"< 100 DM","unemployed",4,"single male","none",4,"building society savings",40,"stores","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",15,"critical","business",2326,"501 - 1000 DM","1 - 4 yrs",2,"single male","none",4,"other",27,"bank","own",1,"skilled employee",1,"none","yes",1
+"unknown",9,"repaid","business",1449,"< 100 DM","4 - 7 yrs",3,"female","none",2,"other",27,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","car (new)",1820,"< 100 DM","1 - 4 yrs",2,"married male","none",2,"building society savings",30,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","furniture",983,"> 1000 DM","0 - 1 yrs",1,"female","none",4,"real estate",19,"none","rent",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",36,"repaid","car (new)",3249,"< 100 DM","4 - 7 yrs",2,"single male","none",4,"unknown/none",39,"bank","for free",1,"mangement self-employed",2,"yes","yes",1
+"< 0 DM",6,"critical","radio/tv",1957,"< 100 DM","4 - 7 yrs",1,"female","none",4,"other",31,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",9,"critical","furniture",2406,"< 100 DM","unemployed",2,"single male","none",3,"other",31,"none","own",1,"mangement self-employed",1,"none","yes",1
+"1 - 200 DM",39,"delayed","education",11760,"101 - 500 DM","4 - 7 yrs",2,"single male","none",3,"unknown/none",32,"none","rent",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"repaid","furniture",2578,"< 100 DM","unemployed",3,"female","none",4,"unknown/none",55,"none","for free",1,"mangement self-employed",1,"none","yes",1
+"< 0 DM",36,"critical","furniture",2348,"< 100 DM","1 - 4 yrs",3,"married male","none",2,"building society savings",46,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","car (new)",1223,"< 100 DM","> 7 yrs",1,"divorced male","none",1,"real estate",46,"none","rent",2,"skilled employee",1,"none","yes",2
+"unknown",24,"critical","radio/tv",1516,"> 1000 DM","1 - 4 yrs",4,"female","none",1,"real estate",43,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",18,"repaid","radio/tv",1473,"< 100 DM","0 - 1 yrs",3,"married male","none",4,"real estate",39,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",18,"critical","business",1887,"unknown","1 - 4 yrs",4,"married male","none",4,"real estate",28,"bank","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"delayed","business",8648,"< 100 DM","0 - 1 yrs",2,"single male","none",2,"other",27,"bank","own",2,"skilled employee",1,"yes","yes",2
+"unknown",14,"delayed","car (new)",802,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",27,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",18,"delayed","car (new)",2899,"unknown","> 7 yrs",4,"single male","none",4,"other",43,"none","own",1,"skilled employee",2,"none","yes",1
+"1 - 200 DM",24,"repaid","radio/tv",2039,"< 100 DM","0 - 1 yrs",1,"married male","none",1,"building society savings",22,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",24,"critical","car (used)",2197,"unknown","4 - 7 yrs",4,"single male","none",4,"other",43,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",15,"repaid","radio/tv",1053,"< 100 DM","0 - 1 yrs",4,"married male","none",2,"real estate",27,"none","own",1,"skilled employee",1,"none","no",1
+"unknown",24,"repaid","radio/tv",3235,"501 - 1000 DM","> 7 yrs",3,"divorced male","none",2,"other",26,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",12,"critical","car (new)",939,"501 - 1000 DM","4 - 7 yrs",4,"married male","none",2,"real estate",28,"none","own",3,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",24,"repaid","radio/tv",1967,"< 100 DM","> 7 yrs",4,"female","none",4,"other",20,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",33,"critical","car (used)",7253,"< 100 DM","4 - 7 yrs",3,"single male","none",2,"other",35,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"critical","business",2292,"< 100 DM","unemployed",4,"single male","none",2,"other",42,"stores","own",2,"mangement self-employed",1,"yes","yes",2
+"unknown",10,"repaid","car (new)",1597,"501 - 1000 DM","1 - 4 yrs",3,"single male","none",2,"unknown/none",40,"none","rent",1,"unskilled resident",2,"none","no",1
+"< 0 DM",24,"repaid","car (new)",1381,"unknown","1 - 4 yrs",4,"female","none",2,"building society savings",35,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",36,"critical","car (used)",5842,"< 100 DM","> 7 yrs",2,"single male","none",2,"building society savings",35,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",12,"repaid","car (new)",2579,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"real estate",33,"none","own",1,"unskilled resident",2,"none","yes",2
+"< 0 DM",18,"delayed","education",8471,"unknown","1 - 4 yrs",1,"female","none",2,"other",23,"none","rent",2,"skilled employee",1,"yes","yes",1
+"unknown",21,"repaid","car (new)",2782,"501 - 1000 DM","4 - 7 yrs",1,"female","none",2,"other",31,"bank","own",1,"mangement self-employed",1,"none","yes",1
+"1 - 200 DM",18,"repaid","car (new)",1042,"unknown","1 - 4 yrs",4,"female","none",2,"building society savings",33,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",15,"repaid","car (new)",3186,"> 1000 DM","4 - 7 yrs",2,"female","none",3,"other",20,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (used)",2028,"unknown","1 - 4 yrs",4,"single male","none",2,"other",30,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"critical","car (new)",958,"< 100 DM","4 - 7 yrs",2,"single male","none",3,"real estate",47,"none","own",2,"unskilled resident",2,"none","yes",1
+"unknown",21,"delayed","furniture",1591,"101 - 500 DM","4 - 7 yrs",4,"single male","none",3,"real estate",34,"none","own",2,"mangement self-employed",1,"none","yes",1
+"1 - 200 DM",12,"repaid","furniture",2762,"unknown","> 7 yrs",1,"female","none",2,"building society savings",25,"bank","own",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",18,"repaid","car (used)",2779,"< 100 DM","1 - 4 yrs",1,"married male","none",3,"other",21,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",28,"critical","radio/tv",2743,"< 100 DM","> 7 yrs",4,"single male","none",2,"other",29,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","radio/tv",1149,"> 1000 DM","1 - 4 yrs",4,"single male","none",3,"real estate",46,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",9,"repaid","furniture",1313,"< 100 DM","> 7 yrs",1,"single male","none",4,"other",20,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"critical","repairs",1190,"< 100 DM","unemployed",2,"female","none",4,"unknown/none",55,"none","for free",3,"unemployed non-resident",2,"none","yes",2
+"unknown",5,"repaid","business",3448,"< 100 DM","4 - 7 yrs",1,"single male","none",4,"real estate",74,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","others",11328,"< 100 DM","1 - 4 yrs",2,"single male","co-applicant",3,"other",29,"bank","own",2,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",6,"critical","furniture",1872,"< 100 DM","unemployed",4,"single male","none",4,"unknown/none",36,"none","for free",3,"mangement self-employed",1,"yes","yes",1
+"unknown",24,"critical","repairs",2058,"< 100 DM","1 - 4 yrs",4,"divorced male","none",2,"real estate",33,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",9,"repaid","furniture",2136,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",25,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1484,"unknown","1 - 4 yrs",2,"married male","none",1,"real estate",25,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",6,"repaid","repairs",660,"501 - 1000 DM","4 - 7 yrs",2,"married male","none",4,"real estate",23,"none","rent",1,"unskilled resident",1,"none","yes",1
+"unknown",24,"critical","car (new)",1287,"> 1000 DM","> 7 yrs",4,"female","none",4,"real estate",37,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",42,"critical","repairs",3394,"< 100 DM","unemployed",4,"single male","co-applicant",4,"other",65,"none","own",2,"unemployed non-resident",1,"none","yes",1
+"> 200 DM",12,"fully repaid this bank","business",609,"< 100 DM","0 - 1 yrs",4,"female","none",1,"real estate",26,"none","own",1,"unemployed non-resident",1,"none","yes",2
+"unknown",12,"repaid","car (new)",1884,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",39,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"repaid","furniture",1620,"< 100 DM","1 - 4 yrs",2,"female","co-applicant",3,"building society savings",30,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",20,"delayed","others",2629,"< 100 DM","1 - 4 yrs",2,"single male","none",3,"other",29,"bank","own",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","education",719,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",41,"bank","own",1,"unskilled resident",2,"none","yes",2
+"1 - 200 DM",48,"critical","furniture",5096,"< 100 DM","1 - 4 yrs",2,"female","none",3,"other",30,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",9,"critical","education",1244,"unknown","> 7 yrs",4,"female","none",4,"building society savings",41,"none","rent",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",36,"repaid","car (new)",1842,"< 100 DM","0 - 1 yrs",4,"female","none",4,"other",34,"none","own",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",7,"repaid","radio/tv",2576,"< 100 DM","1 - 4 yrs",2,"single male","guarantor",2,"real estate",35,"none","own",1,"skilled employee",1,"none","yes",1
+"> 200 DM",12,"repaid","furniture",1424,"unknown","> 7 yrs",3,"female","none",4,"real estate",55,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",15,"delayed","repairs",1512,"> 1000 DM","1 - 4 yrs",3,"married male","none",3,"building society savings",61,"stores","own",2,"skilled employee",1,"none","yes",2
+"unknown",36,"critical","car (used)",11054,"unknown","1 - 4 yrs",4,"single male","none",2,"other",30,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",6,"repaid","radio/tv",518,"< 100 DM","1 - 4 yrs",3,"female","none",1,"real estate",29,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",12,"fully repaid","furniture",2759,"< 100 DM","> 7 yrs",2,"single male","none",4,"building society savings",34,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","car (used)",2670,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",35,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",24,"repaid","car (new)",4817,"< 100 DM","4 - 7 yrs",2,"single male","co-applicant",3,"building society savings",31,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",24,"repaid","car (used)",2679,"< 100 DM","0 - 1 yrs",4,"female","none",1,"unknown/none",29,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",11,"critical","car (new)",3905,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",36,"none","rent",2,"skilled employee",2,"none","yes",1
+"< 0 DM",12,"repaid","car (used)",3386,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",35,"none","for free",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",6,"repaid","domestic appliances",343,"< 100 DM","0 - 1 yrs",4,"female","none",1,"real estate",27,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","radio/tv",4594,"< 100 DM","0 - 1 yrs",3,"single male","none",2,"other",32,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",36,"repaid","furniture",3620,"< 100 DM","1 - 4 yrs",1,"single male","guarantor",2,"building society savings",37,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",15,"repaid","car (new)",1721,"< 100 DM","0 - 1 yrs",2,"single male","none",3,"real estate",36,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","furniture",3017,"< 100 DM","0 - 1 yrs",3,"female","none",1,"real estate",34,"none","rent",1,"mangement self-employed",1,"none","yes",1
+"1 - 200 DM",12,"repaid","retraining",754,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",38,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"repaid","business",1950,"< 100 DM","4 - 7 yrs",4,"single male","none",1,"other",34,"stores","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"repaid","car (used)",2924,"< 100 DM","1 - 4 yrs",3,"single male","guarantor",4,"unknown/none",63,"bank","own",1,"skilled employee",2,"yes","yes",1
+"< 0 DM",24,"delayed","radio/tv",1659,"< 100 DM","0 - 1 yrs",4,"female","none",2,"other",29,"none","rent",1,"unskilled resident",1,"yes","yes",2
+"unknown",48,"delayed","radio/tv",7238,"unknown","> 7 yrs",3,"single male","none",3,"other",32,"bank","own",2,"skilled employee",2,"none","yes",1
+"unknown",33,"delayed","business",2764,"< 100 DM","1 - 4 yrs",2,"female","none",2,"other",26,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",24,"delayed","car (used)",4679,"< 100 DM","4 - 7 yrs",3,"single male","none",3,"other",35,"none","own",2,"unskilled resident",1,"yes","yes",1
+"1 - 200 DM",24,"repaid","radio/tv",3092,"101 - 500 DM","0 - 1 yrs",3,"married male","none",2,"other",22,"none","rent",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",6,"repaid","education",448,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",23,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",9,"repaid","car (new)",654,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"other",28,"none","own",1,"unskilled resident",1,"none","yes",2
+"unknown",6,"repaid","retraining",1238,"unknown","unemployed",4,"single male","none",4,"building society savings",36,"none","own",1,"mangement self-employed",2,"yes","yes",1
+"1 - 200 DM",18,"critical","radio/tv",1245,"< 100 DM","1 - 4 yrs",4,"married male","none",2,"other",33,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",18,"fully repaid","furniture",3114,"< 100 DM","0 - 1 yrs",1,"female","none",4,"building society savings",26,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",39,"repaid","car (used)",2569,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",4,"other",24,"none","own",1,"skilled employee",1,"none","yes",1
+"> 200 DM",24,"repaid","radio/tv",5152,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"other",25,"bank","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","business",1037,"101 - 500 DM","4 - 7 yrs",3,"single male","none",4,"real estate",39,"none","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",15,"critical","furniture",1478,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",44,"none","own",2,"skilled employee",2,"yes","yes",1
+"1 - 200 DM",12,"critical","radio/tv",3573,"< 100 DM","1 - 4 yrs",1,"female","none",1,"real estate",23,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","car (new)",1201,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"building society savings",26,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",30,"repaid","furniture",3622,"> 1000 DM","> 7 yrs",4,"female","none",4,"building society savings",57,"none","rent",2,"skilled employee",1,"yes","yes",1
+"unknown",15,"delayed","furniture",960,"> 1000 DM","4 - 7 yrs",3,"female","none",2,"building society savings",30,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","car (new)",1163,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",4,"real estate",44,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",6,"delayed","car (new)",1209,"< 100 DM","unemployed",4,"single male","none",4,"building society savings",47,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",12,"repaid","radio/tv",3077,"< 100 DM","1 - 4 yrs",2,"single male","none",4,"other",52,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","car (new)",3757,"< 100 DM","> 7 yrs",4,"female","co-applicant",4,"unknown/none",62,"none","for free",1,"skilled employee",1,"yes","yes",1
+"unknown",10,"repaid","car (new)",1418,"101 - 500 DM","1 - 4 yrs",3,"single male","none",2,"real estate",35,"none","rent",1,"unskilled resident",1,"none","no",1
+"unknown",6,"repaid","car (new)",3518,"< 100 DM","1 - 4 yrs",2,"single male","guarantor",3,"building society savings",26,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","radio/tv",1934,"< 100 DM","> 7 yrs",2,"single male","none",2,"unknown/none",26,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",27,"fully repaid","business",8318,"< 100 DM","> 7 yrs",2,"female","none",4,"unknown/none",42,"none","for free",2,"mangement self-employed",1,"yes","yes",2
+"unknown",6,"critical","radio/tv",1237,"101 - 500 DM","1 - 4 yrs",1,"female","none",1,"building society savings",27,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",6,"repaid","radio/tv",368,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",38,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"critical","car (new)",2122,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",39,"none","rent",2,"unskilled resident",2,"none","no",1
+"< 0 DM",24,"repaid","furniture",2996,"unknown","1 - 4 yrs",2,"married male","none",4,"other",20,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",36,"repaid","furniture",9034,"101 - 500 DM","0 - 1 yrs",4,"single male","co-applicant",1,"unknown/none",29,"none","rent",1,"mangement self-employed",1,"yes","yes",2
+"unknown",24,"critical","furniture",1585,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"building society savings",40,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","radio/tv",1301,"< 100 DM","> 7 yrs",4,"married male","guarantor",2,"real estate",32,"none","own",1,"unskilled resident",1,"none","yes",1
+"> 200 DM",6,"critical","car (new)",1323,"101 - 500 DM","> 7 yrs",2,"divorced male","none",4,"other",28,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",24,"repaid","car (new)",3123,"< 100 DM","0 - 1 yrs",4,"female","none",1,"building society savings",27,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",36,"repaid","car (used)",5493,"< 100 DM","> 7 yrs",2,"single male","none",4,"unknown/none",42,"none","for free",1,"skilled employee",2,"none","yes",1
+"> 200 DM",9,"repaid","radio/tv",1126,"101 - 500 DM","> 7 yrs",2,"divorced male","none",4,"real estate",49,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"critical","radio/tv",1216,"101 - 500 DM","0 - 1 yrs",4,"single male","none",4,"unknown/none",38,"bank","own",2,"skilled employee",2,"none","yes",2
+"< 0 DM",24,"repaid","car (new)",1207,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",24,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",10,"repaid","car (new)",1309,"unknown","1 - 4 yrs",4,"single male","guarantor",4,"building society savings",27,"none","own",1,"unskilled resident",1,"none","yes",2
+"> 200 DM",15,"critical","car (used)",2360,"501 - 1000 DM","1 - 4 yrs",2,"single male","none",2,"other",36,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",15,"fully repaid this bank","car (new)",6850,"101 - 500 DM","unemployed",1,"single male","none",2,"building society savings",34,"none","own",1,"mangement self-employed",2,"yes","yes",2
+"unknown",24,"repaid","radio/tv",1413,"< 100 DM","1 - 4 yrs",4,"married male","none",2,"building society savings",28,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",39,"repaid","car (used)",8588,"101 - 500 DM","> 7 yrs",4,"single male","none",2,"other",45,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"repaid","car (new)",759,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"real estate",26,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",36,"repaid","car (used)",4686,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"unknown/none",32,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",15,"repaid","business",2687,"< 100 DM","4 - 7 yrs",2,"single male","none",4,"building society savings",26,"none","rent",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"delayed","radio/tv",585,"< 100 DM","1 - 4 yrs",4,"married male","co-applicant",4,"real estate",20,"none","rent",2,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","car (new)",2255,"unknown","0 - 1 yrs",4,"single male","none",1,"building society savings",54,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"critical","car (new)",609,"< 100 DM","4 - 7 yrs",4,"female","none",3,"building society savings",37,"none","own",2,"skilled employee",1,"none","no",1
+"< 0 DM",6,"critical","car (new)",1361,"< 100 DM","0 - 1 yrs",2,"single male","none",4,"real estate",40,"none","own",1,"unskilled resident",2,"none","no",1
+"unknown",36,"critical","furniture",7127,"< 100 DM","0 - 1 yrs",2,"female","none",4,"building society savings",23,"none","rent",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",6,"repaid","car (new)",1203,"101 - 500 DM","> 7 yrs",3,"single male","none",2,"building society savings",43,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",6,"critical","radio/tv",700,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",36,"none","for free",2,"skilled employee",1,"none","yes",1
+"unknown",24,"critical","repairs",5507,"< 100 DM","> 7 yrs",3,"single male","none",4,"unknown/none",44,"none","for free",2,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",3190,"< 100 DM","1 - 4 yrs",2,"female","none",2,"real estate",24,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",48,"fully repaid","furniture",7119,"< 100 DM","1 - 4 yrs",3,"single male","none",4,"unknown/none",53,"none","for free",2,"skilled employee",2,"none","yes",2
+"unknown",24,"repaid","car (used)",3488,"101 - 500 DM","4 - 7 yrs",3,"female","none",4,"other",23,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"repaid","radio/tv",1113,"< 100 DM","1 - 4 yrs",4,"female","guarantor",4,"real estate",26,"none","own",1,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",26,"repaid","car (used)",7966,"< 100 DM","0 - 1 yrs",2,"single male","none",3,"other",30,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",15,"critical","education",1532,"101 - 500 DM","1 - 4 yrs",4,"female","none",3,"other",31,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",4,"critical","radio/tv",1503,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"real estate",42,"none","own",2,"unskilled resident",2,"none","yes",1
+"< 0 DM",36,"repaid","radio/tv",2302,"< 100 DM","1 - 4 yrs",4,"divorced male","none",4,"other",31,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",6,"repaid","car (new)",662,"< 100 DM","0 - 1 yrs",3,"single male","none",4,"real estate",41,"none","own",1,"unskilled resident",2,"yes","yes",1
+"1 - 200 DM",36,"repaid","education",2273,"< 100 DM","4 - 7 yrs",3,"single male","none",1,"other",32,"none","own",2,"skilled employee",2,"none","yes",1
+"1 - 200 DM",15,"repaid","car (new)",2631,"101 - 500 DM","1 - 4 yrs",2,"female","none",4,"other",28,"none","rent",2,"skilled employee",1,"yes","yes",2
+"unknown",12,"delayed","car (used)",1503,"< 100 DM","1 - 4 yrs",4,"married male","none",4,"real estate",41,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","radio/tv",1311,"101 - 500 DM","4 - 7 yrs",4,"married male","none",3,"building society savings",26,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","radio/tv",3105,"unknown","0 - 1 yrs",4,"single male","none",2,"other",25,"none","own",2,"skilled employee",1,"none","yes",1
+"> 200 DM",21,"critical","education",2319,"< 100 DM","0 - 1 yrs",2,"divorced male","none",1,"other",33,"none","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",6,"repaid","car (new)",1374,"unknown","unemployed",4,"female","none",3,"building society savings",75,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",18,"critical","furniture",3612,"< 100 DM","> 7 yrs",3,"female","none",4,"building society savings",37,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",48,"repaid","car (new)",7763,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",42,"bank","for free",1,"mangement self-employed",1,"none","yes",2
+"> 200 DM",18,"repaid","furniture",3049,"< 100 DM","0 - 1 yrs",1,"female","none",1,"building society savings",45,"stores","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1534,"< 100 DM","0 - 1 yrs",1,"married male","none",1,"real estate",23,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",24,"delayed","car (new)",2032,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",60,"none","for free",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",30,"repaid","furniture",6350,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",31,"none","own",1,"skilled employee",1,"none","yes",2
+"> 200 DM",18,"repaid","furniture",2864,"< 100 DM","1 - 4 yrs",2,"single male","none",1,"real estate",34,"none","own",1,"unskilled resident",2,"none","yes",2
+"unknown",12,"critical","car (new)",1255,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",61,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",24,"delayed","car (new)",1333,"< 100 DM","unemployed",4,"single male","none",2,"real estate",43,"none","for free",2,"skilled employee",2,"none","yes",2
+"unknown",24,"critical","car (new)",2022,"< 100 DM","1 - 4 yrs",4,"female","none",4,"other",37,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","radio/tv",1552,"< 100 DM","4 - 7 yrs",3,"single male","none",1,"other",32,"bank","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",12,"fully repaid this bank","radio/tv",626,"< 100 DM","1 - 4 yrs",4,"female","none",4,"real estate",24,"bank","own",1,"unskilled resident",1,"none","yes",2
+"unknown",48,"critical","car (used)",8858,"unknown","4 - 7 yrs",2,"single male","none",1,"unknown/none",35,"none","for free",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","repairs",996,"unknown","4 - 7 yrs",4,"female","none",4,"real estate",23,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",6,"fully repaid this bank","radio/tv",1750,"501 - 1000 DM","> 7 yrs",2,"single male","none",4,"building society savings",45,"bank","own",1,"unskilled resident",2,"none","yes",1
+"< 0 DM",48,"repaid","radio/tv",6999,"< 100 DM","4 - 7 yrs",1,"married male","guarantor",1,"real estate",34,"none","own",2,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",12,"critical","car (new)",1995,"101 - 500 DM","0 - 1 yrs",4,"single male","none",1,"other",27,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"repaid","education",1199,"< 100 DM","4 - 7 yrs",4,"female","none",4,"building society savings",67,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1331,"< 100 DM","0 - 1 yrs",2,"single male","none",1,"other",22,"stores","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",18,"fully repaid","car (new)",2278,"101 - 500 DM","0 - 1 yrs",3,"female","none",3,"other",28,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",21,"fully repaid","car (new)",5003,"unknown","1 - 4 yrs",1,"female","none",4,"building society savings",29,"bank","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",24,"fully repaid this bank","furniture",3552,"< 100 DM","4 - 7 yrs",3,"single male","none",4,"other",27,"bank","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",18,"critical","furniture",1928,"< 100 DM","0 - 1 yrs",2,"single male","none",2,"real estate",31,"none","own",2,"unskilled resident",1,"none","yes",2
+"< 0 DM",24,"repaid","car (used)",2964,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",49,"bank","for free",1,"skilled employee",2,"yes","yes",1
+"< 0 DM",24,"fully repaid this bank","radio/tv",1546,"< 100 DM","4 - 7 yrs",4,"single male","guarantor",4,"other",24,"bank","rent",1,"unskilled resident",1,"none","yes",2
+"> 200 DM",6,"delayed","radio/tv",683,"< 100 DM","0 - 1 yrs",2,"female","none",1,"building society savings",29,"bank","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"repaid","car (new)",12389,"unknown","1 - 4 yrs",1,"single male","none",4,"unknown/none",37,"none","for free",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",24,"delayed","business",4712,"unknown","1 - 4 yrs",4,"single male","none",2,"building society savings",37,"bank","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",24,"delayed","radio/tv",1553,"101 - 500 DM","4 - 7 yrs",3,"female","none",2,"building society savings",23,"none","rent",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"repaid","car (new)",1372,"< 100 DM","4 - 7 yrs",2,"divorced male","none",3,"other",36,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",24,"critical","radio/tv",2578,"> 1000 DM","> 7 yrs",2,"single male","none",2,"other",34,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",48,"repaid","radio/tv",3979,"unknown","4 - 7 yrs",4,"single male","none",1,"other",41,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",48,"repaid","radio/tv",6758,"< 100 DM","1 - 4 yrs",3,"female","none",2,"other",31,"none","own",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",24,"repaid","furniture",3234,"< 100 DM","0 - 1 yrs",4,"female","none",4,"real estate",23,"none","rent",1,"unskilled resident",1,"yes","yes",2
+"unknown",30,"critical","radio/tv",5954,"< 100 DM","4 - 7 yrs",3,"single male","co-applicant",2,"other",38,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","car (used)",5433,"unknown","unemployed",2,"female","none",4,"building society savings",26,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",15,"repaid","business",806,"< 100 DM","1 - 4 yrs",4,"female","none",4,"building society savings",22,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",9,"repaid","radio/tv",1082,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",27,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",15,"critical","furniture",2788,"< 100 DM","4 - 7 yrs",2,"female","co-applicant",3,"other",24,"bank","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",2930,"< 100 DM","4 - 7 yrs",2,"female","none",1,"real estate",27,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"critical","education",1927,"unknown","1 - 4 yrs",3,"female","none",2,"other",33,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",36,"critical","car (new)",2820,"< 100 DM","0 - 1 yrs",4,"divorced male","none",4,"other",27,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",24,"repaid","retraining",937,"< 100 DM","0 - 1 yrs",4,"married male","none",3,"other",27,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",18,"critical","car (new)",1056,"< 100 DM","> 7 yrs",3,"single male","guarantor",3,"real estate",30,"bank","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"critical","car (new)",3124,"< 100 DM","0 - 1 yrs",1,"single male","none",3,"real estate",49,"bank","own",2,"unskilled resident",2,"none","yes",1
+"unknown",9,"repaid","furniture",1388,"< 100 DM","1 - 4 yrs",4,"female","none",2,"real estate",26,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",36,"repaid","repairs",2384,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"unknown/none",33,"none","rent",1,"unskilled resident",1,"none","yes",2
+"unknown",12,"repaid","car (new)",2133,"unknown","> 7 yrs",4,"female","none",4,"unknown/none",52,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",18,"repaid","furniture",2039,"< 100 DM","1 - 4 yrs",1,"female","none",4,"real estate",20,"bank","rent",1,"skilled employee",1,"none","yes",2
+"< 0 DM",9,"critical","car (new)",2799,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",36,"none","rent",2,"skilled employee",2,"none","yes",1
+"< 0 DM",12,"repaid","furniture",1289,"< 100 DM","1 - 4 yrs",4,"single male","guarantor",1,"building society savings",21,"none","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",18,"repaid","domestic appliances",1217,"< 100 DM","1 - 4 yrs",4,"married male","none",3,"real estate",47,"none","own",1,"unskilled resident",1,"yes","yes",2
+"< 0 DM",12,"critical","furniture",2246,"< 100 DM","> 7 yrs",3,"single male","none",3,"building society savings",60,"none","own",2,"skilled employee",1,"none","yes",2
+"< 0 DM",12,"critical","radio/tv",385,"< 100 DM","4 - 7 yrs",4,"female","none",3,"real estate",58,"none","own",4,"unskilled resident",1,"yes","yes",1
+"1 - 200 DM",24,"delayed","car (new)",1965,"unknown","1 - 4 yrs",4,"female","none",4,"other",42,"none","rent",2,"skilled employee",1,"yes","yes",1
+"unknown",21,"repaid","business",1572,"> 1000 DM","> 7 yrs",4,"female","none",4,"real estate",36,"bank","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","car (new)",2718,"< 100 DM","1 - 4 yrs",3,"female","none",4,"building society savings",20,"none","rent",1,"unskilled resident",1,"yes","yes",2
+"< 0 DM",24,"fully repaid this bank","others",1358,"unknown","> 7 yrs",4,"single male","none",3,"other",40,"stores","own",1,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",6,"fully repaid this bank","car (new)",931,"101 - 500 DM","0 - 1 yrs",1,"female","none",1,"building society savings",32,"stores","own",1,"unskilled resident",1,"none","yes",2
+"< 0 DM",24,"repaid","car (new)",1442,"< 100 DM","4 - 7 yrs",4,"female","none",4,"other",23,"none","rent",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"fully repaid","business",4241,"< 100 DM","1 - 4 yrs",1,"single male","none",4,"real estate",36,"none","own",3,"unskilled resident",1,"yes","yes",2
+"unknown",18,"critical","car (new)",2775,"< 100 DM","4 - 7 yrs",2,"single male","none",2,"building society savings",31,"bank","own",2,"skilled employee",1,"none","yes",2
+"unknown",24,"delayed","business",3863,"< 100 DM","1 - 4 yrs",1,"single male","none",2,"unknown/none",32,"none","for free",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",7,"repaid","radio/tv",2329,"< 100 DM","0 - 1 yrs",1,"female","guarantor",1,"real estate",45,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"repaid","furniture",918,"< 100 DM","1 - 4 yrs",4,"female","none",1,"building society savings",30,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"fully repaid this bank","education",1837,"< 100 DM","4 - 7 yrs",4,"female","none",4,"unknown/none",34,"bank","for free",1,"unskilled resident",1,"none","yes",2
+"unknown",36,"repaid","furniture",3349,"< 100 DM","1 - 4 yrs",4,"female","none",2,"other",28,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"> 200 DM",10,"repaid","furniture",1275,"< 100 DM","0 - 1 yrs",4,"female","none",2,"building society savings",23,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"fully repaid this bank","furniture",2828,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",4,"real estate",22,"stores","own",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"critical","business",4526,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",74,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",36,"repaid","radio/tv",2671,"101 - 500 DM","1 - 4 yrs",4,"female","co-applicant",4,"unknown/none",50,"none","for free",1,"skilled employee",1,"none","yes",2
+"unknown",18,"repaid","radio/tv",2051,"< 100 DM","0 - 1 yrs",4,"single male","none",1,"real estate",33,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",15,"repaid","car (used)",1300,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",45,"bank","for free",1,"skilled employee",2,"none","yes",1
+"< 0 DM",12,"repaid","domestic appliances",741,"101 - 500 DM","unemployed",4,"female","none",3,"building society savings",22,"none","own",1,"skilled employee",1,"none","yes",2
+"> 200 DM",10,"repaid","car (new)",1240,"101 - 500 DM","> 7 yrs",1,"female","none",4,"unknown/none",48,"none","for free",1,"unskilled resident",2,"none","yes",2
+"< 0 DM",21,"repaid","radio/tv",3357,"> 1000 DM","0 - 1 yrs",4,"female","none",2,"other",29,"bank","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"fully repaid this bank","car (used)",3632,"< 100 DM","1 - 4 yrs",1,"female","guarantor",4,"other",22,"bank","rent",1,"skilled employee",1,"none","no",1
+"unknown",18,"delayed","furniture",1808,"< 100 DM","4 - 7 yrs",4,"female","none",1,"real estate",22,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",48,"fully repaid","business",12204,"unknown","1 - 4 yrs",2,"single male","none",2,"other",48,"bank","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",60,"delayed","radio/tv",9157,"unknown","1 - 4 yrs",2,"single male","none",2,"unknown/none",27,"none","for free",1,"mangement self-employed",1,"none","yes",1
+"< 0 DM",6,"critical","car (new)",3676,"< 100 DM","1 - 4 yrs",1,"single male","none",3,"real estate",37,"none","rent",3,"skilled employee",2,"none","yes",1
+"1 - 200 DM",30,"repaid","furniture",3441,"101 - 500 DM","1 - 4 yrs",2,"female","co-applicant",4,"other",21,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",12,"repaid","car (new)",640,"< 100 DM","1 - 4 yrs",4,"divorced male","none",2,"real estate",49,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",21,"critical","business",3652,"< 100 DM","4 - 7 yrs",2,"single male","none",3,"building society savings",27,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","car (new)",1530,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"building society savings",32,"bank","own",2,"skilled employee",1,"none","yes",2
+"unknown",48,"repaid","business",3914,"unknown","1 - 4 yrs",4,"divorced male","none",2,"real estate",38,"bank","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",12,"repaid","furniture",1858,"< 100 DM","0 - 1 yrs",4,"female","none",1,"other",22,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",2600,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",65,"none","for free",2,"skilled employee",1,"none","yes",2
+"unknown",15,"repaid","radio/tv",1979,"unknown","> 7 yrs",4,"single male","none",2,"other",35,"none","own",1,"skilled employee",1,"none","yes",1
+"> 200 DM",6,"repaid","furniture",2116,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",41,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",9,"fully repaid this bank","car (new)",1437,"101 - 500 DM","4 - 7 yrs",2,"single male","none",3,"unknown/none",29,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",42,"critical","furniture",4042,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",4,"real estate",36,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",9,"repaid","education",3832,"unknown","> 7 yrs",1,"single male","none",4,"real estate",64,"none","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",24,"repaid","radio/tv",3660,"< 100 DM","1 - 4 yrs",2,"female","none",4,"other",28,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"fully repaid this bank","furniture",1553,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"other",44,"bank","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",15,"repaid","radio/tv",1444,"unknown","0 - 1 yrs",4,"single male","none",1,"building society savings",23,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",9,"repaid","furniture",1980,"< 100 DM","0 - 1 yrs",2,"female","co-applicant",2,"other",19,"none","rent",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"repaid","car (new)",1355,"< 100 DM","0 - 1 yrs",3,"female","none",4,"other",25,"none","own",1,"unskilled resident",1,"yes","yes",2
+"unknown",12,"repaid","education",1393,"< 100 DM","> 7 yrs",4,"single male","none",4,"building society savings",47,"bank","own",3,"skilled employee",2,"yes","yes",1
+"unknown",24,"repaid","radio/tv",1376,"501 - 1000 DM","4 - 7 yrs",4,"female","none",1,"other",28,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",60,"delayed","radio/tv",15653,"< 100 DM","4 - 7 yrs",2,"single male","none",4,"other",21,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","radio/tv",1493,"< 100 DM","0 - 1 yrs",4,"female","none",3,"other",34,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",42,"delayed","radio/tv",4370,"< 100 DM","4 - 7 yrs",3,"single male","none",2,"building society savings",26,"bank","own",2,"skilled employee",2,"yes","yes",2
+"< 0 DM",18,"repaid","education",750,"< 100 DM","unemployed",4,"female","none",1,"real estate",27,"none","own",1,"unemployed non-resident",1,"none","yes",2
+"1 - 200 DM",15,"repaid","repairs",1308,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",38,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",15,"repaid","education",4623,"101 - 500 DM","1 - 4 yrs",3,"single male","none",2,"building society savings",40,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",24,"critical","radio/tv",1851,"< 100 DM","4 - 7 yrs",4,"married male","guarantor",2,"other",33,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"critical","radio/tv",1880,"< 100 DM","4 - 7 yrs",4,"married male","none",1,"building society savings",32,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"unknown",36,"delayed","business",7980,"unknown","0 - 1 yrs",4,"single male","none",4,"other",27,"none","rent",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",30,"fully repaid","furniture",4583,"< 100 DM","1 - 4 yrs",2,"divorced male","guarantor",2,"real estate",32,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"repaid","car (new)",1386,"501 - 1000 DM","1 - 4 yrs",2,"female","none",2,"building society savings",26,"none","own",1,"skilled employee",1,"none","yes",2
+"> 200 DM",24,"repaid","car (new)",947,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"unknown/none",38,"bank","for free",1,"skilled employee",2,"none","yes",2
+"< 0 DM",12,"repaid","education",684,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"other",40,"none","rent",1,"unskilled resident",2,"none","yes",2
+"< 0 DM",48,"repaid","education",7476,"< 100 DM","4 - 7 yrs",4,"single male","none",1,"unknown/none",50,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","furniture",1922,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",37,"none","own",1,"unskilled resident",1,"none","yes",2
+"< 0 DM",24,"repaid","car (new)",2303,"< 100 DM","> 7 yrs",4,"single male","co-applicant",1,"real estate",45,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",36,"delayed","car (new)",8086,"101 - 500 DM","> 7 yrs",2,"single male","none",4,"other",42,"none","own",4,"mangement self-employed",1,"yes","yes",2
+"unknown",24,"critical","car (used)",2346,"< 100 DM","4 - 7 yrs",4,"single male","none",3,"other",35,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",14,"repaid","car (new)",3973,"< 100 DM","unemployed",1,"single male","none",4,"unknown/none",22,"none","for free",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (new)",888,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",41,"bank","own",1,"unskilled resident",2,"none","yes",2
+"unknown",48,"repaid","radio/tv",10222,"unknown","4 - 7 yrs",4,"single male","none",3,"other",37,"stores","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",30,"fully repaid","business",4221,"< 100 DM","1 - 4 yrs",2,"female","none",1,"other",28,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"critical","furniture",6361,"< 100 DM","> 7 yrs",2,"single male","none",1,"unknown/none",41,"none","own",1,"skilled employee",1,"yes","yes",1
+"> 200 DM",12,"repaid","radio/tv",1297,"< 100 DM","1 - 4 yrs",3,"married male","none",4,"real estate",23,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","car (new)",900,"unknown","1 - 4 yrs",4,"married male","none",2,"other",23,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",21,"repaid","furniture",2241,"< 100 DM","> 7 yrs",4,"single male","none",2,"real estate",50,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",6,"delayed","furniture",1050,"< 100 DM","unemployed",4,"single male","none",1,"building society savings",35,"stores","own",2,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",6,"critical","education",1047,"< 100 DM","1 - 4 yrs",2,"female","none",4,"building society savings",50,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",24,"critical","others",6314,"< 100 DM","unemployed",4,"single male","co-applicant",2,"unknown/none",27,"bank","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",30,"fully repaid this bank","furniture",3496,"> 1000 DM","1 - 4 yrs",4,"single male","none",2,"other",34,"stores","own",1,"skilled employee",2,"yes","yes",1
+"unknown",48,"fully repaid this bank","business",3609,"< 100 DM","1 - 4 yrs",1,"female","none",1,"real estate",27,"stores","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"critical","car (new)",4843,"< 100 DM","> 7 yrs",3,"single male","co-applicant",4,"building society savings",43,"none","rent",2,"skilled employee",1,"yes","yes",2
+"> 200 DM",30,"critical","radio/tv",3017,"< 100 DM","> 7 yrs",4,"single male","none",4,"building society savings",47,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"critical","business",4139,"101 - 500 DM","1 - 4 yrs",3,"single male","none",3,"building society savings",27,"none","own",2,"unskilled resident",1,"yes","yes",1
+"unknown",36,"repaid","business",5742,"101 - 500 DM","4 - 7 yrs",2,"single male","none",2,"other",31,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",60,"repaid","car (new)",10366,"< 100 DM","> 7 yrs",2,"single male","none",4,"building society savings",42,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",6,"critical","car (new)",2080,"501 - 1000 DM","1 - 4 yrs",1,"married male","none",2,"other",24,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",21,"delayed","business",2580,"501 - 1000 DM","0 - 1 yrs",4,"single male","none",2,"real estate",41,"bank","own",1,"unskilled resident",2,"none","yes",2
+"unknown",30,"critical","radio/tv",4530,"< 100 DM","4 - 7 yrs",4,"female","none",4,"other",26,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",24,"critical","furniture",5150,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",33,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",72,"repaid","radio/tv",5595,"101 - 500 DM","1 - 4 yrs",2,"married male","none",2,"other",24,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",24,"repaid","radio/tv",2384,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",64,"bank","rent",1,"unskilled resident",1,"none","yes",1
+"unknown",18,"repaid","radio/tv",1453,"< 100 DM","0 - 1 yrs",3,"female","none",1,"real estate",26,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",6,"repaid","education",1538,"< 100 DM","0 - 1 yrs",1,"female","none",2,"unknown/none",56,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",12,"repaid","radio/tv",2279,"unknown","1 - 4 yrs",4,"single male","none",4,"unknown/none",37,"none","for free",1,"skilled employee",1,"yes","yes",1
+"unknown",15,"delayed","radio/tv",1478,"< 100 DM","1 - 4 yrs",4,"married male","none",3,"real estate",33,"bank","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"critical","radio/tv",5103,"< 100 DM","0 - 1 yrs",3,"married male","none",3,"unknown/none",47,"none","for free",3,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",36,"delayed","business",9857,"101 - 500 DM","4 - 7 yrs",1,"single male","none",3,"building society savings",31,"none","own",2,"unskilled resident",2,"yes","yes",1
+"unknown",60,"repaid","car (new)",6527,"unknown","1 - 4 yrs",4,"single male","none",4,"unknown/none",34,"none","for free",1,"skilled employee",2,"yes","yes",1
+"> 200 DM",10,"critical","radio/tv",1347,"unknown","4 - 7 yrs",4,"single male","none",2,"building society savings",27,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",36,"delayed","car (new)",2862,"101 - 500 DM","> 7 yrs",4,"single male","none",3,"unknown/none",30,"none","for free",1,"skilled employee",1,"none","yes",1
+"unknown",9,"repaid","radio/tv",2753,"101 - 500 DM","> 7 yrs",3,"single male","co-applicant",4,"other",35,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"repaid","car (new)",3651,"> 1000 DM","1 - 4 yrs",1,"single male","none",3,"building society savings",31,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",15,"critical","furniture",975,"< 100 DM","1 - 4 yrs",2,"divorced male","none",3,"building society savings",25,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",15,"repaid","repairs",2631,"101 - 500 DM","1 - 4 yrs",3,"female","none",2,"real estate",25,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","radio/tv",2896,"101 - 500 DM","0 - 1 yrs",2,"single male","none",1,"other",29,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"critical","car (new)",4716,"unknown","0 - 1 yrs",1,"single male","none",3,"real estate",44,"none","own",2,"unskilled resident",2,"none","yes",1
+"unknown",24,"repaid","radio/tv",2284,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"other",28,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",6,"repaid","car (used)",1236,"501 - 1000 DM","1 - 4 yrs",2,"single male","none",4,"building society savings",50,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1103,"< 100 DM","4 - 7 yrs",4,"single male","guarantor",3,"real estate",29,"none","own",2,"skilled employee",1,"none","no",1
+"unknown",12,"critical","car (new)",926,"< 100 DM","unemployed",1,"female","none",2,"building society savings",38,"none","own",1,"unemployed non-resident",1,"none","yes",1
+"unknown",18,"critical","radio/tv",1800,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"other",24,"none","own",2,"skilled employee",1,"none","yes",1
+"> 200 DM",15,"repaid","education",1905,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",40,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","furniture",1123,"501 - 1000 DM","1 - 4 yrs",4,"female","none",4,"other",29,"none","rent",1,"unskilled resident",1,"none","yes",2
+"< 0 DM",48,"critical","car (used)",6331,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",46,"none","for free",2,"skilled employee",1,"yes","yes",2
+"> 200 DM",24,"repaid","radio/tv",1377,"101 - 500 DM","> 7 yrs",4,"female","none",2,"unknown/none",47,"none","for free",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",30,"delayed","business",2503,"101 - 500 DM","> 7 yrs",4,"single male","none",2,"building society savings",41,"stores","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",27,"repaid","business",2528,"< 100 DM","0 - 1 yrs",4,"female","none",1,"building society savings",32,"none","own",1,"skilled employee",2,"yes","yes",1
+"unknown",15,"repaid","car (new)",5324,"501 - 1000 DM","> 7 yrs",1,"female","none",4,"unknown/none",35,"none","for free",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",48,"repaid","car (new)",6560,"101 - 500 DM","4 - 7 yrs",3,"single male","none",2,"building society savings",24,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"fully repaid","furniture",2969,"< 100 DM","0 - 1 yrs",4,"female","none",3,"building society savings",25,"none","rent",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",9,"repaid","radio/tv",1206,"< 100 DM","> 7 yrs",4,"female","none",4,"real estate",25,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",9,"repaid","radio/tv",2118,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",37,"none","own",1,"unskilled resident",2,"none","yes",1
+"unknown",18,"critical","radio/tv",629,"501 - 1000 DM","> 7 yrs",4,"single male","none",3,"building society savings",32,"bank","own",2,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",6,"fully repaid this bank","education",1198,"< 100 DM","> 7 yrs",4,"female","none",4,"unknown/none",35,"none","for free",1,"skilled employee",1,"none","yes",2
+"unknown",21,"repaid","car (used)",2476,"unknown","> 7 yrs",4,"single male","none",4,"real estate",46,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",9,"critical","radio/tv",1138,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"real estate",25,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",60,"repaid","car (new)",14027,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"unknown/none",27,"none","own",1,"mangement self-employed",1,"yes","yes",2
+"unknown",30,"critical","car (used)",7596,"unknown","> 7 yrs",1,"single male","none",4,"other",63,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",30,"critical","radio/tv",3077,"unknown","> 7 yrs",3,"single male","none",2,"other",40,"none","own",2,"skilled employee",2,"yes","yes",1
+"unknown",18,"repaid","radio/tv",1505,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"unknown/none",32,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",24,"critical","radio/tv",3148,"unknown","1 - 4 yrs",3,"single male","none",2,"other",31,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",20,"fully repaid","car (used)",6148,"101 - 500 DM","> 7 yrs",3,"married male","none",4,"other",31,"bank","own",2,"skilled employee",1,"yes","yes",1
+"> 200 DM",9,"fully repaid","radio/tv",1337,"< 100 DM","0 - 1 yrs",4,"single male","none",2,"other",34,"none","own",2,"mangement self-employed",1,"yes","yes",2
+"1 - 200 DM",6,"fully repaid this bank","education",433,"> 1000 DM","0 - 1 yrs",4,"female","none",2,"building society savings",24,"bank","rent",1,"skilled employee",2,"none","yes",2
+"< 0 DM",12,"repaid","car (new)",1228,"< 100 DM","1 - 4 yrs",4,"female","none",2,"real estate",24,"none","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",9,"repaid","radio/tv",790,"501 - 1000 DM","1 - 4 yrs",4,"female","none",3,"real estate",66,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",27,"repaid","car (new)",2570,"< 100 DM","1 - 4 yrs",3,"female","none",3,"real estate",21,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",6,"critical","car (new)",250,"> 1000 DM","1 - 4 yrs",2,"female","none",2,"real estate",41,"bank","own",2,"unskilled resident",1,"none","yes",1
+"unknown",15,"critical","radio/tv",1316,"501 - 1000 DM","1 - 4 yrs",2,"married male","none",2,"building society savings",47,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",1882,"< 100 DM","1 - 4 yrs",4,"female","none",4,"other",25,"bank","rent",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",48,"fully repaid this bank","business",6416,"< 100 DM","> 7 yrs",4,"female","none",3,"unknown/none",59,"none","rent",1,"skilled employee",1,"none","yes",2
+"> 200 DM",24,"critical","business",1275,"> 1000 DM","1 - 4 yrs",2,"divorced male","none",4,"real estate",36,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",24,"delayed","radio/tv",6403,"< 100 DM","0 - 1 yrs",1,"single male","none",2,"other",33,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","radio/tv",1987,"< 100 DM","1 - 4 yrs",2,"single male","none",4,"real estate",21,"none","rent",1,"unskilled resident",2,"none","yes",2
+"1 - 200 DM",8,"repaid","radio/tv",760,"< 100 DM","4 - 7 yrs",4,"female","guarantor",2,"real estate",44,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",24,"repaid","car (used)",2603,"> 1000 DM","1 - 4 yrs",2,"female","none",4,"other",28,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",4,"critical","car (new)",3380,"< 100 DM","4 - 7 yrs",1,"female","none",1,"real estate",37,"none","own",1,"skilled employee",2,"none","yes",1
+"1 - 200 DM",36,"fully repaid this bank","domestic appliances",3990,"unknown","0 - 1 yrs",3,"female","none",2,"unknown/none",29,"bank","own",1,"unemployed non-resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","car (used)",11560,"< 100 DM","1 - 4 yrs",1,"female","none",4,"other",23,"none","rent",2,"mangement self-employed",1,"none","yes",2
+"< 0 DM",18,"repaid","car (new)",4380,"101 - 500 DM","1 - 4 yrs",3,"single male","none",4,"other",35,"none","own",1,"unskilled resident",2,"yes","yes",1
+"unknown",6,"critical","car (new)",6761,"< 100 DM","4 - 7 yrs",1,"single male","none",3,"unknown/none",45,"none","own",2,"mangement self-employed",2,"yes","yes",1
+"1 - 200 DM",30,"fully repaid","business",4280,"101 - 500 DM","1 - 4 yrs",4,"female","none",4,"other",26,"none","rent",2,"unskilled resident",1,"none","yes",2
+"< 0 DM",24,"fully repaid this bank","car (new)",2325,"101 - 500 DM","4 - 7 yrs",2,"single male","none",3,"other",32,"bank","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",10,"fully repaid this bank","radio/tv",1048,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"real estate",23,"stores","own",1,"unskilled resident",1,"none","yes",1
+"unknown",21,"repaid","radio/tv",3160,"unknown","> 7 yrs",4,"single male","none",3,"building society savings",41,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"fully repaid this bank","furniture",2483,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",4,"real estate",22,"stores","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",39,"critical","furniture",14179,"unknown","4 - 7 yrs",4,"single male","none",4,"building society savings",30,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",13,"critical","business",1797,"< 100 DM","0 - 1 yrs",3,"single male","none",1,"building society savings",28,"bank","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",15,"repaid","car (new)",2511,"< 100 DM","unemployed",1,"female","none",4,"other",23,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","car (new)",1274,"< 100 DM","0 - 1 yrs",3,"female","none",1,"real estate",37,"none","own",1,"unskilled resident",1,"none","yes",2
+"unknown",21,"repaid","car (used)",5248,"unknown","1 - 4 yrs",1,"single male","none",3,"other",26,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",15,"repaid","car (used)",3029,"< 100 DM","4 - 7 yrs",2,"single male","none",2,"other",33,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",6,"repaid","furniture",428,"< 100 DM","> 7 yrs",2,"female","none",1,"building society savings",49,"bank","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"repaid","car (new)",976,"< 100 DM","0 - 1 yrs",1,"female","none",2,"other",23,"none","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",12,"repaid","business",841,"101 - 500 DM","4 - 7 yrs",2,"female","none",4,"real estate",23,"none","rent",1,"unskilled resident",1,"none","yes",1
+"unknown",30,"critical","radio/tv",5771,"< 100 DM","4 - 7 yrs",4,"female","none",2,"other",25,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"delayed","repairs",1555,"> 1000 DM","> 7 yrs",4,"single male","none",4,"unknown/none",55,"none","for free",2,"skilled employee",2,"none","yes",2
+"< 0 DM",24,"repaid","car (new)",1285,"unknown","4 - 7 yrs",4,"female","none",4,"unknown/none",32,"none","rent",1,"skilled employee",1,"none","yes",2
+"> 200 DM",6,"critical","car (new)",1299,"< 100 DM","1 - 4 yrs",1,"single male","none",1,"real estate",74,"none","own",3,"unemployed non-resident",2,"none","no",1
+"> 200 DM",15,"critical","radio/tv",1271,"unknown","1 - 4 yrs",3,"single male","none",4,"unknown/none",39,"none","for free",2,"skilled employee",1,"yes","yes",2
+"unknown",24,"repaid","car (new)",1393,"< 100 DM","1 - 4 yrs",2,"single male","guarantor",2,"real estate",31,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"critical","car (new)",691,"< 100 DM","> 7 yrs",4,"single male","none",3,"building society savings",35,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",15,"critical","car (new)",5045,"unknown","> 7 yrs",1,"female","none",4,"other",59,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"critical","furniture",2124,"< 100 DM","1 - 4 yrs",4,"female","none",4,"real estate",24,"none","rent",2,"skilled employee",1,"none","yes",2
+"< 0 DM",12,"repaid","radio/tv",2214,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"building society savings",24,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",21,"critical","car (new)",12680,"unknown","> 7 yrs",4,"single male","none",4,"unknown/none",30,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",24,"critical","car (new)",2463,"101 - 500 DM","4 - 7 yrs",4,"married male","none",3,"building society savings",27,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","radio/tv",1155,"< 100 DM","> 7 yrs",3,"married male","guarantor",3,"real estate",40,"bank","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",30,"repaid","furniture",3108,"< 100 DM","0 - 1 yrs",2,"divorced male","none",4,"building society savings",31,"none","own",1,"unskilled resident",1,"none","yes",2
+"unknown",10,"repaid","car (used)",2901,"unknown","0 - 1 yrs",1,"female","none",4,"real estate",31,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"critical","furniture",3617,"< 100 DM","> 7 yrs",1,"single male","none",4,"other",28,"none","rent",3,"skilled employee",1,"yes","yes",1
+"unknown",12,"critical","radio/tv",1655,"< 100 DM","> 7 yrs",2,"single male","none",4,"real estate",63,"none","own",2,"unskilled resident",1,"yes","yes",1
+"< 0 DM",24,"repaid","car (used)",2812,"unknown","> 7 yrs",2,"female","none",4,"real estate",26,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",36,"critical","education",8065,"< 100 DM","1 - 4 yrs",3,"female","none",2,"unknown/none",25,"none","own",2,"mangement self-employed",1,"yes","yes",2
+"unknown",21,"critical","car (used)",3275,"< 100 DM","> 7 yrs",1,"single male","none",4,"other",36,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",24,"critical","radio/tv",2223,"101 - 500 DM","> 7 yrs",4,"single male","none",4,"building society savings",52,"bank","own",2,"skilled employee",1,"none","yes",1
+"> 200 DM",12,"critical","car (new)",1480,"501 - 1000 DM","unemployed",2,"single male","none",4,"unknown/none",66,"bank","for free",3,"unemployed non-resident",1,"none","yes",1
+"< 0 DM",24,"repaid","car (new)",1371,"unknown","1 - 4 yrs",4,"female","none",4,"real estate",25,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",36,"critical","car (new)",3535,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"other",37,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"repaid","radio/tv",3509,"< 100 DM","4 - 7 yrs",4,"female","guarantor",1,"real estate",25,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",36,"critical","car (used)",5711,"> 1000 DM","> 7 yrs",4,"single male","none",2,"other",38,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",18,"repaid","repairs",3872,"< 100 DM","unemployed",2,"female","none",4,"other",67,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",39,"critical","radio/tv",4933,"< 100 DM","4 - 7 yrs",2,"single male","guarantor",2,"real estate",25,"none","own",2,"skilled employee",1,"none","yes",2
+"unknown",24,"critical","car (new)",1940,"> 1000 DM","> 7 yrs",4,"single male","none",4,"real estate",60,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",12,"fully repaid","retraining",1410,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",31,"none","own",1,"unskilled resident",1,"yes","yes",1
+"1 - 200 DM",12,"repaid","car (new)",836,"101 - 500 DM","0 - 1 yrs",4,"female","none",2,"building society savings",23,"bank","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",20,"repaid","car (used)",6468,"unknown","unemployed",1,"divorced male","none",4,"real estate",60,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",18,"repaid","business",1941,"> 1000 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",35,"none","own",1,"unskilled resident",1,"yes","yes",1
+"unknown",22,"repaid","radio/tv",2675,"501 - 1000 DM","> 7 yrs",3,"single male","none",4,"other",40,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",48,"critical","car (used)",2751,"unknown","> 7 yrs",4,"single male","none",3,"other",38,"none","own",2,"skilled employee",2,"yes","yes",1
+"1 - 200 DM",48,"delayed","education",6224,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",50,"none","for free",1,"skilled employee",1,"none","yes",2
+"< 0 DM",40,"critical","education",5998,"< 100 DM","1 - 4 yrs",4,"single male","none",3,"unknown/none",27,"bank","own",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",21,"repaid","business",1188,"< 100 DM","> 7 yrs",2,"female","none",4,"building society savings",39,"none","own",1,"skilled employee",2,"none","yes",2
+"unknown",24,"repaid","car (used)",6313,"unknown","> 7 yrs",3,"single male","none",4,"other",41,"none","own",1,"mangement self-employed",2,"yes","yes",1
+"unknown",6,"critical","furniture",1221,"unknown","1 - 4 yrs",1,"married male","none",2,"building society savings",27,"none","own",2,"skilled employee",1,"none","yes",1
+"> 200 DM",24,"repaid","furniture",2892,"< 100 DM","> 7 yrs",3,"divorced male","none",4,"unknown/none",51,"none","for free",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","furniture",3062,"501 - 1000 DM","> 7 yrs",4,"single male","none",3,"unknown/none",32,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",9,"repaid","furniture",2301,"101 - 500 DM","0 - 1 yrs",2,"female","none",4,"building society savings",22,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","car (used)",7511,"unknown","> 7 yrs",1,"single male","none",4,"building society savings",51,"none","for free",1,"skilled employee",2,"yes","yes",2
+"unknown",12,"critical","furniture",1258,"< 100 DM","0 - 1 yrs",2,"female","none",4,"building society savings",22,"none","rent",2,"unskilled resident",1,"none","yes",1
+"unknown",24,"delayed","car (new)",717,"unknown","> 7 yrs",4,"married male","none",4,"other",54,"none","own",2,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",9,"repaid","car (new)",1549,"unknown","0 - 1 yrs",4,"single male","none",2,"real estate",35,"none","own",1,"unemployed non-resident",1,"none","yes",1
+"unknown",24,"critical","education",1597,"< 100 DM","> 7 yrs",4,"single male","none",4,"unknown/none",54,"none","for free",2,"skilled employee",2,"none","yes",1
+"1 - 200 DM",18,"critical","radio/tv",1795,"< 100 DM","> 7 yrs",3,"female","guarantor",4,"real estate",48,"bank","rent",2,"unskilled resident",1,"yes","yes",1
+"< 0 DM",20,"critical","furniture",4272,"< 100 DM","> 7 yrs",1,"female","none",4,"building society savings",24,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","radio/tv",976,"unknown","> 7 yrs",4,"single male","none",4,"other",35,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",12,"repaid","car (new)",7472,"unknown","unemployed",1,"female","none",2,"real estate",24,"none","rent",1,"unemployed non-resident",1,"none","yes",1
+"< 0 DM",36,"repaid","car (new)",9271,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"other",24,"none","own",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",6,"repaid","radio/tv",590,"< 100 DM","0 - 1 yrs",3,"married male","none",3,"real estate",26,"none","own",1,"unskilled resident",1,"none","no",1
+"unknown",12,"critical","radio/tv",930,"unknown","> 7 yrs",4,"single male","none",4,"real estate",65,"none","own",4,"skilled employee",1,"none","yes",1
+"1 - 200 DM",42,"fully repaid this bank","car (used)",9283,"< 100 DM","unemployed",1,"single male","none",2,"unknown/none",55,"bank","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",15,"fully repaid","car (new)",1778,"< 100 DM","0 - 1 yrs",2,"female","none",1,"real estate",26,"none","rent",2,"unemployed non-resident",1,"none","yes",2
+"1 - 200 DM",8,"repaid","business",907,"< 100 DM","0 - 1 yrs",3,"married male","none",2,"real estate",26,"none","own",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",6,"repaid","radio/tv",484,"< 100 DM","4 - 7 yrs",3,"married male","guarantor",3,"real estate",28,"bank","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",36,"critical","car (used)",9629,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"other",24,"none","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",48,"repaid","domestic appliances",3051,"< 100 DM","1 - 4 yrs",3,"single male","none",4,"other",54,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",48,"repaid","car (new)",3931,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"unknown/none",46,"none","for free",1,"skilled employee",2,"none","yes",2
+"1 - 200 DM",36,"delayed","car (new)",7432,"< 100 DM","1 - 4 yrs",2,"female","none",2,"building society savings",54,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",6,"repaid","domestic appliances",1338,"501 - 1000 DM","1 - 4 yrs",1,"divorced male","none",4,"real estate",62,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",6,"critical","radio/tv",1554,"< 100 DM","4 - 7 yrs",1,"female","none",2,"other",24,"none","rent",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",36,"repaid","others",15857,"< 100 DM","unemployed",2,"divorced male","co-applicant",3,"other",43,"none","own",1,"mangement self-employed",1,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",1345,"< 100 DM","1 - 4 yrs",4,"married male","none",3,"real estate",26,"bank","own",1,"skilled employee",1,"none","yes",2
+"unknown",12,"repaid","car (new)",1101,"< 100 DM","1 - 4 yrs",3,"married male","none",2,"real estate",27,"none","own",2,"skilled employee",1,"yes","yes",1
+"> 200 DM",12,"repaid","radio/tv",3016,"< 100 DM","1 - 4 yrs",3,"married male","none",1,"other",24,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",36,"repaid","furniture",2712,"< 100 DM","> 7 yrs",2,"single male","none",2,"building society savings",41,"bank","own",1,"skilled employee",2,"none","yes",2
+"< 0 DM",8,"critical","car (new)",731,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",47,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",18,"critical","furniture",3780,"< 100 DM","0 - 1 yrs",3,"divorced male","none",2,"other",35,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",21,"critical","car (new)",1602,"< 100 DM","> 7 yrs",4,"married male","none",3,"other",30,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"critical","car (new)",3966,"< 100 DM","> 7 yrs",1,"female","none",4,"real estate",33,"bank","rent",3,"skilled employee",1,"yes","yes",2
+"unknown",18,"fully repaid","business",4165,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",36,"stores","own",2,"skilled employee",2,"none","yes",2
+"< 0 DM",36,"repaid","car (used)",8335,"unknown","> 7 yrs",3,"single male","none",4,"unknown/none",47,"none","for free",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",48,"delayed","business",6681,"unknown","1 - 4 yrs",4,"single male","none",4,"unknown/none",38,"none","for free",1,"skilled employee",2,"yes","yes",1
+"unknown",24,"delayed","business",2375,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",2,"other",44,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",18,"repaid","car (new)",1216,"< 100 DM","0 - 1 yrs",4,"female","none",3,"other",23,"none","rent",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",45,"fully repaid","business",11816,"< 100 DM","> 7 yrs",2,"single male","none",4,"other",29,"none","rent",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"repaid","radio/tv",5084,"unknown","> 7 yrs",2,"female","none",4,"other",42,"none","own",1,"skilled employee",1,"yes","yes",1
+"> 200 DM",15,"repaid","radio/tv",2327,"< 100 DM","0 - 1 yrs",2,"female","none",3,"real estate",25,"none","own",1,"unskilled resident",1,"none","yes",2
+"< 0 DM",12,"fully repaid","car (new)",1082,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"other",48,"bank","own",2,"skilled employee",1,"none","yes",2
+"unknown",12,"repaid","radio/tv",886,"unknown","1 - 4 yrs",4,"female","none",2,"other",21,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",4,"repaid","furniture",601,"< 100 DM","0 - 1 yrs",1,"female","none",3,"real estate",23,"none","rent",1,"unskilled resident",2,"none","yes",1
+"< 0 DM",24,"critical","car (used)",2957,"< 100 DM","> 7 yrs",4,"single male","none",4,"building society savings",63,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",24,"critical","radio/tv",2611,"< 100 DM","> 7 yrs",4,"married male","co-applicant",3,"real estate",46,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",36,"repaid","furniture",5179,"< 100 DM","4 - 7 yrs",4,"single male","none",2,"building society savings",29,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",21,"delayed","car (used)",2993,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",28,"stores","own",2,"unskilled resident",1,"none","yes",1
+"unknown",18,"repaid","repairs",1943,"< 100 DM","0 - 1 yrs",4,"female","none",4,"real estate",23,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",24,"fully repaid this bank","business",1559,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"other",50,"bank","own",1,"skilled employee",1,"yes","yes",1
+"unknown",18,"repaid","furniture",3422,"< 100 DM","> 7 yrs",4,"single male","none",4,"building society savings",47,"bank","own",3,"skilled employee",2,"yes","yes",1
+"1 - 200 DM",21,"repaid","furniture",3976,"unknown","4 - 7 yrs",2,"single male","none",3,"other",35,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",18,"repaid","car (new)",6761,"unknown","1 - 4 yrs",2,"single male","none",4,"other",68,"none","rent",2,"skilled employee",1,"none","yes",2
+"unknown",24,"repaid","car (new)",1249,"< 100 DM","0 - 1 yrs",4,"married male","none",2,"real estate",28,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",9,"repaid","radio/tv",1364,"< 100 DM","4 - 7 yrs",3,"single male","none",4,"real estate",59,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","radio/tv",709,"< 100 DM","> 7 yrs",4,"single male","none",4,"real estate",57,"stores","own",1,"unskilled resident",1,"none","yes",2
+"< 0 DM",20,"critical","car (new)",2235,"< 100 DM","1 - 4 yrs",4,"married male","guarantor",2,"building society savings",33,"bank","rent",2,"skilled employee",1,"none","no",2
+"unknown",24,"critical","car (used)",4042,"unknown","4 - 7 yrs",3,"single male","none",4,"building society savings",43,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",15,"critical","radio/tv",1471,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",35,"none","for free",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",18,"fully repaid this bank","car (new)",1442,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"unknown/none",32,"none","for free",2,"unskilled resident",2,"none","yes",2
+"unknown",36,"delayed","car (new)",10875,"< 100 DM","> 7 yrs",2,"single male","none",2,"other",45,"none","own",2,"skilled employee",2,"yes","yes",1
+"unknown",24,"repaid","car (new)",1474,"101 - 500 DM","0 - 1 yrs",4,"married male","none",3,"real estate",33,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",10,"repaid","retraining",894,"unknown","4 - 7 yrs",4,"female","none",3,"building society savings",40,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",15,"critical","furniture",3343,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"unknown/none",28,"none","for free",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",15,"repaid","car (new)",3959,"< 100 DM","1 - 4 yrs",3,"female","none",2,"building society savings",29,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",9,"repaid","car (new)",3577,"101 - 500 DM","1 - 4 yrs",1,"single male","guarantor",2,"real estate",26,"none","rent",1,"skilled employee",2,"none","no",1
+"unknown",24,"critical","car (used)",5804,"> 1000 DM","1 - 4 yrs",4,"single male","none",2,"real estate",27,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"delayed","business",2169,"< 100 DM","1 - 4 yrs",4,"married male","none",2,"other",28,"none","own",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",24,"repaid","radio/tv",2439,"< 100 DM","0 - 1 yrs",4,"female","none",4,"real estate",35,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",27,"critical","furniture",4526,"> 1000 DM","0 - 1 yrs",4,"single male","none",2,"real estate",32,"stores","own",2,"unskilled resident",2,"yes","yes",1
+"unknown",10,"repaid","furniture",2210,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",25,"bank","rent",1,"unskilled resident",1,"none","yes",2
+"unknown",15,"repaid","furniture",2221,"501 - 1000 DM","1 - 4 yrs",2,"female","none",4,"other",20,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",2389,"< 100 DM","0 - 1 yrs",4,"female","none",1,"other",27,"stores","own",1,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","furniture",3331,"< 100 DM","> 7 yrs",2,"single male","none",4,"building society savings",42,"stores","own",1,"skilled employee",1,"none","yes",1
+"unknown",36,"repaid","business",7409,"unknown","> 7 yrs",3,"single male","none",2,"building society savings",37,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","furniture",652,"< 100 DM","> 7 yrs",4,"female","none",4,"building society savings",24,"none","rent",1,"skilled employee",1,"none","yes",1
+"unknown",36,"delayed","furniture",7678,"501 - 1000 DM","4 - 7 yrs",2,"female","none",4,"other",40,"none","own",2,"skilled employee",1,"yes","yes",1
+"> 200 DM",6,"critical","car (new)",1343,"< 100 DM","> 7 yrs",1,"single male","none",4,"real estate",46,"none","own",2,"skilled employee",2,"none","no",1
+"< 0 DM",24,"critical","business",1382,"101 - 500 DM","4 - 7 yrs",4,"single male","none",1,"real estate",26,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",15,"repaid","domestic appliances",874,"unknown","0 - 1 yrs",4,"female","none",1,"real estate",24,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",12,"repaid","furniture",3590,"< 100 DM","1 - 4 yrs",2,"single male","co-applicant",2,"building society savings",29,"none","own",1,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",11,"critical","car (new)",1322,"> 1000 DM","1 - 4 yrs",4,"female","none",4,"other",40,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",18,"fully repaid this bank","radio/tv",1940,"< 100 DM","0 - 1 yrs",3,"single male","co-applicant",4,"unknown/none",36,"bank","for free",1,"mangement self-employed",1,"yes","yes",1
+"unknown",36,"repaid","radio/tv",3595,"< 100 DM","> 7 yrs",4,"single male","none",2,"other",28,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",9,"repaid","car (new)",1422,"< 100 DM","0 - 1 yrs",3,"single male","none",2,"unknown/none",27,"none","for free",1,"mangement self-employed",1,"yes","yes",2
+"unknown",30,"critical","radio/tv",6742,"unknown","4 - 7 yrs",2,"single male","none",3,"building society savings",36,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","car (used)",7814,"< 100 DM","4 - 7 yrs",3,"single male","none",3,"other",38,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",24,"repaid","car (used)",9277,"unknown","1 - 4 yrs",2,"divorced male","none",4,"unknown/none",48,"none","for free",1,"skilled employee",1,"yes","yes",1
+"1 - 200 DM",30,"critical","car (new)",2181,"unknown","> 7 yrs",4,"single male","none",4,"real estate",36,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",18,"critical","radio/tv",1098,"< 100 DM","unemployed",4,"female","none",4,"other",65,"none","own",2,"unemployed non-resident",1,"none","yes",1
+"1 - 200 DM",24,"repaid","furniture",4057,"< 100 DM","4 - 7 yrs",3,"divorced male","none",3,"other",43,"none","own",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",12,"repaid","education",795,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",53,"none","own",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",24,"critical","business",2825,"unknown","4 - 7 yrs",4,"single male","none",3,"unknown/none",34,"none","own",2,"skilled employee",2,"yes","yes",1
+"1 - 200 DM",48,"repaid","business",15672,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"other",23,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",36,"critical","car (new)",6614,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",34,"none","own",2,"mangement self-employed",1,"yes","yes",1
+"unknown",28,"fully repaid this bank","car (used)",7824,"unknown","0 - 1 yrs",3,"single male","guarantor",4,"real estate",40,"bank","rent",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",27,"critical","business",2442,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",43,"stores","own",4,"mangement self-employed",2,"yes","yes",1
+"unknown",15,"critical","radio/tv",1829,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",46,"none","own",2,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"critical","car (new)",2171,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"building society savings",38,"bank","own",2,"unskilled resident",1,"none","no",1
+"1 - 200 DM",36,"critical","car (used)",5800,"< 100 DM","1 - 4 yrs",3,"single male","none",4,"other",34,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",18,"critical","radio/tv",1169,"unknown","1 - 4 yrs",4,"single male","none",3,"building society savings",29,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",36,"delayed","car (used)",8947,"unknown","4 - 7 yrs",3,"single male","none",2,"other",31,"stores","own",1,"mangement self-employed",2,"yes","yes",1
+"< 0 DM",21,"repaid","radio/tv",2606,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",28,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"critical","furniture",1592,"> 1000 DM","4 - 7 yrs",3,"female","none",2,"building society savings",35,"none","own",1,"skilled employee",1,"none","no",1
+"unknown",15,"repaid","furniture",2186,"unknown","4 - 7 yrs",1,"female","none",4,"real estate",33,"bank","rent",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",18,"repaid","furniture",4153,"< 100 DM","1 - 4 yrs",2,"single male","co-applicant",3,"other",42,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",16,"critical","car (new)",2625,"< 100 DM","> 7 yrs",2,"single male","guarantor",4,"building society savings",43,"bank","rent",1,"skilled employee",1,"yes","yes",2
+"unknown",20,"critical","car (new)",3485,"unknown","0 - 1 yrs",2,"divorced male","none",4,"real estate",44,"none","own",2,"skilled employee",1,"yes","yes",1
+"unknown",36,"critical","car (used)",10477,"unknown","> 7 yrs",2,"single male","none",4,"unknown/none",42,"none","for free",2,"skilled employee",1,"none","yes",1
+"unknown",15,"repaid","radio/tv",1386,"unknown","1 - 4 yrs",4,"married male","none",2,"real estate",40,"none","rent",1,"skilled employee",1,"yes","yes",1
+"unknown",24,"repaid","radio/tv",1278,"< 100 DM","> 7 yrs",4,"single male","none",1,"real estate",36,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",12,"repaid","radio/tv",1107,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"real estate",20,"none","rent",1,"mangement self-employed",2,"yes","yes",1
+"< 0 DM",21,"repaid","car (new)",3763,"unknown","4 - 7 yrs",2,"single male","co-applicant",2,"real estate",24,"none","own",1,"unskilled resident",1,"none","no",1
+"1 - 200 DM",36,"repaid","education",3711,"unknown","1 - 4 yrs",2,"married male","none",2,"other",27,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",15,"delayed","car (used)",3594,"< 100 DM","0 - 1 yrs",1,"female","none",2,"building society savings",46,"none","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",9,"repaid","car (new)",3195,"unknown","1 - 4 yrs",1,"female","none",2,"real estate",33,"none","own",1,"unskilled resident",1,"none","yes",1
+"unknown",36,"delayed","radio/tv",4454,"< 100 DM","1 - 4 yrs",4,"female","none",4,"real estate",34,"none","own",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",24,"critical","furniture",4736,"< 100 DM","0 - 1 yrs",2,"female","none",4,"other",25,"bank","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",30,"repaid","radio/tv",2991,"unknown","> 7 yrs",2,"female","none",4,"other",25,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",11,"repaid","business",2142,"> 1000 DM","> 7 yrs",1,"divorced male","none",2,"real estate",28,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"fully repaid this bank","business",3161,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",31,"none","rent",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",48,"fully repaid","others",18424,"< 100 DM","1 - 4 yrs",1,"female","none",2,"building society savings",32,"bank","own",1,"mangement self-employed",1,"yes","no",2
+"unknown",10,"repaid","car (used)",2848,"101 - 500 DM","1 - 4 yrs",1,"single male","co-applicant",2,"real estate",32,"none","own",1,"skilled employee",2,"none","yes",1
+"< 0 DM",6,"repaid","car (new)",14896,"< 100 DM","> 7 yrs",1,"single male","none",4,"unknown/none",68,"bank","own",1,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",24,"repaid","furniture",2359,"101 - 500 DM","unemployed",1,"divorced male","none",1,"building society savings",33,"none","own",1,"skilled employee",1,"none","yes",2
+"< 0 DM",24,"repaid","furniture",3345,"< 100 DM","> 7 yrs",4,"single male","none",2,"building society savings",39,"none","rent",1,"mangement self-employed",1,"yes","yes",2
+"unknown",18,"critical","furniture",1817,"< 100 DM","1 - 4 yrs",4,"female","none",2,"unknown/none",28,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",48,"delayed","radio/tv",12749,"501 - 1000 DM","4 - 7 yrs",4,"single male","none",1,"other",37,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",9,"repaid","radio/tv",1366,"< 100 DM","0 - 1 yrs",3,"female","none",4,"building society savings",22,"none","rent",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",12,"repaid","car (new)",2002,"< 100 DM","4 - 7 yrs",3,"single male","none",4,"building society savings",30,"none","rent",1,"skilled employee",2,"yes","yes",1
+"< 0 DM",24,"fully repaid this bank","furniture",6872,"< 100 DM","0 - 1 yrs",2,"divorced male","none",1,"building society savings",55,"bank","own",1,"skilled employee",1,"yes","yes",2
+"< 0 DM",12,"fully repaid this bank","car (new)",697,"< 100 DM","0 - 1 yrs",4,"single male","none",2,"other",46,"bank","own",2,"skilled employee",1,"yes","yes",2
+"< 0 DM",18,"critical","furniture",1049,"< 100 DM","0 - 1 yrs",4,"female","none",4,"building society savings",21,"none","rent",1,"skilled employee",1,"none","yes",1
+"< 0 DM",48,"repaid","car (used)",10297,"< 100 DM","4 - 7 yrs",4,"single male","none",4,"unknown/none",39,"stores","for free",3,"skilled employee",2,"yes","yes",2
+"unknown",30,"repaid","radio/tv",1867,"unknown","> 7 yrs",4,"single male","none",4,"other",58,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",12,"delayed","car (new)",1344,"< 100 DM","1 - 4 yrs",4,"single male","none",2,"real estate",43,"none","own",2,"unskilled resident",2,"none","yes",1
+"< 0 DM",24,"repaid","furniture",1747,"< 100 DM","0 - 1 yrs",4,"single male","co-applicant",1,"building society savings",24,"none","own",1,"unskilled resident",1,"none","no",1
+"1 - 200 DM",9,"repaid","radio/tv",1670,"< 100 DM","0 - 1 yrs",4,"female","none",2,"other",22,"none","own",1,"skilled employee",1,"yes","yes",2
+"unknown",9,"critical","car (new)",1224,"< 100 DM","1 - 4 yrs",3,"single male","none",1,"real estate",30,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",12,"critical","radio/tv",522,"501 - 1000 DM","> 7 yrs",4,"single male","none",4,"building society savings",42,"none","own",2,"skilled employee",2,"yes","yes",1
+"< 0 DM",12,"repaid","radio/tv",1498,"< 100 DM","1 - 4 yrs",4,"female","none",1,"other",23,"bank","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",30,"delayed","radio/tv",1919,"101 - 500 DM","0 - 1 yrs",4,"single male","none",3,"unknown/none",30,"stores","own",2,"mangement self-employed",1,"none","yes",2
+"> 200 DM",9,"repaid","radio/tv",745,"< 100 DM","1 - 4 yrs",3,"female","none",2,"real estate",28,"none","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",6,"repaid","radio/tv",2063,"< 100 DM","0 - 1 yrs",4,"married male","none",3,"other",30,"none","rent",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",60,"repaid","education",6288,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",42,"none","for free",1,"skilled employee",1,"none","yes",2
+"unknown",24,"critical","car (used)",6842,"unknown","1 - 4 yrs",2,"single male","none",4,"building society savings",46,"none","own",2,"mangement self-employed",2,"yes","yes",1
+"unknown",12,"repaid","car (new)",3527,"unknown","0 - 1 yrs",2,"single male","none",3,"building society savings",45,"none","own",1,"mangement self-employed",2,"yes","yes",1
+"unknown",10,"repaid","car (new)",1546,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"real estate",31,"none","own",1,"unskilled resident",2,"none","no",1
+"unknown",24,"repaid","furniture",929,"unknown","4 - 7 yrs",4,"single male","none",2,"other",31,"stores","own",1,"skilled employee",1,"yes","yes",1
+"unknown",4,"critical","car (new)",1455,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"real estate",42,"none","own",3,"unskilled resident",2,"none","yes",1
+"< 0 DM",15,"repaid","furniture",1845,"< 100 DM","0 - 1 yrs",4,"female","guarantor",1,"building society savings",46,"none","rent",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",48,"fully repaid","car (new)",8358,"501 - 1000 DM","0 - 1 yrs",1,"female","none",1,"other",30,"none","own",2,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"fully repaid this bank","furniture",3349,"501 - 1000 DM","0 - 1 yrs",4,"single male","none",4,"unknown/none",30,"none","for free",1,"skilled employee",2,"yes","yes",2
+"unknown",12,"repaid","car (new)",2859,"unknown","unemployed",4,"single male","none",4,"unknown/none",38,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",18,"repaid","furniture",1533,"< 100 DM","0 - 1 yrs",4,"married male","co-applicant",1,"building society savings",43,"none","own",1,"unskilled resident",2,"none","yes",2
+"unknown",24,"repaid","radio/tv",3621,"101 - 500 DM","> 7 yrs",2,"single male","none",4,"other",31,"none","own",2,"skilled employee",1,"none","yes",2
+"1 - 200 DM",18,"critical","business",3590,"< 100 DM","unemployed",3,"married male","none",3,"other",40,"none","own",3,"unemployed non-resident",2,"yes","yes",1
+"< 0 DM",36,"delayed","business",2145,"< 100 DM","4 - 7 yrs",2,"single male","none",1,"other",24,"none","own",2,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",24,"repaid","car (used)",4113,"501 - 1000 DM","0 - 1 yrs",3,"female","none",4,"other",28,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",36,"repaid","furniture",10974,"< 100 DM","unemployed",4,"female","none",2,"other",26,"none","own",2,"mangement self-employed",1,"yes","yes",2
+"< 0 DM",12,"repaid","car (new)",1893,"< 100 DM","1 - 4 yrs",4,"female","guarantor",4,"building society savings",29,"none","own",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",24,"critical","radio/tv",1231,"> 1000 DM","> 7 yrs",4,"female","none",4,"building society savings",57,"none","rent",2,"mangement self-employed",1,"yes","yes",1
+"> 200 DM",30,"critical","radio/tv",3656,"unknown","> 7 yrs",4,"single male","none",4,"building society savings",49,"stores","own",2,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",9,"critical","radio/tv",1154,"< 100 DM","> 7 yrs",2,"single male","none",4,"real estate",37,"none","own",3,"unskilled resident",1,"none","yes",1
+"< 0 DM",28,"repaid","car (new)",4006,"< 100 DM","1 - 4 yrs",3,"single male","none",2,"other",45,"none","own",1,"unskilled resident",1,"none","yes",2
+"1 - 200 DM",24,"repaid","furniture",3069,"101 - 500 DM","> 7 yrs",4,"single male","none",4,"unknown/none",30,"none","for free",1,"skilled employee",1,"none","yes",1
+"unknown",6,"critical","radio/tv",1740,"< 100 DM","> 7 yrs",2,"married male","none",2,"real estate",30,"none","rent",2,"skilled employee",1,"none","yes",1
+"1 - 200 DM",21,"delayed","car (new)",2353,"< 100 DM","1 - 4 yrs",1,"divorced male","none",4,"building society savings",47,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",15,"repaid","car (new)",3556,"unknown","1 - 4 yrs",3,"single male","none",2,"unknown/none",29,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","radio/tv",2397,"501 - 1000 DM","> 7 yrs",3,"single male","none",2,"other",35,"bank","own",2,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",6,"repaid","repairs",454,"< 100 DM","0 - 1 yrs",3,"married male","none",1,"building society savings",22,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",30,"repaid","radio/tv",1715,"unknown","1 - 4 yrs",4,"female","none",1,"other",26,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",27,"critical","radio/tv",2520,"501 - 1000 DM","1 - 4 yrs",4,"single male","none",2,"building society savings",23,"none","own",2,"unskilled resident",1,"none","yes",2
+"unknown",15,"repaid","radio/tv",3568,"< 100 DM","> 7 yrs",4,"female","none",2,"other",54,"bank","rent",1,"mangement self-employed",1,"yes","yes",1
+"unknown",42,"repaid","radio/tv",7166,"unknown","4 - 7 yrs",2,"married male","none",4,"building society savings",29,"none","rent",1,"skilled employee",1,"yes","yes",1
+"< 0 DM",11,"critical","car (new)",3939,"< 100 DM","1 - 4 yrs",1,"single male","none",2,"real estate",40,"none","own",2,"unskilled resident",2,"none","yes",1
+"1 - 200 DM",15,"repaid","repairs",1514,"101 - 500 DM","1 - 4 yrs",4,"single male","guarantor",2,"real estate",22,"none","own",1,"skilled employee",1,"none","yes",1
+"unknown",24,"repaid","car (new)",7393,"< 100 DM","1 - 4 yrs",1,"single male","none",4,"building society savings",43,"none","own",1,"unskilled resident",2,"none","yes",1
+"< 0 DM",24,"fully repaid this bank","car (new)",1193,"< 100 DM","unemployed",1,"female","co-applicant",4,"unknown/none",29,"none","rent",2,"unemployed non-resident",1,"none","yes",2
+"< 0 DM",60,"repaid","business",7297,"< 100 DM","> 7 yrs",4,"single male","co-applicant",4,"unknown/none",36,"none","rent",1,"skilled employee",1,"none","yes",2
+"unknown",30,"critical","radio/tv",2831,"< 100 DM","1 - 4 yrs",4,"female","none",2,"other",33,"none","own",1,"skilled employee",1,"yes","yes",1
+"> 200 DM",24,"repaid","radio/tv",1258,"501 - 1000 DM","1 - 4 yrs",3,"female","none",3,"other",57,"none","own",1,"unskilled resident",1,"none","yes",1
+"1 - 200 DM",6,"repaid","radio/tv",753,"< 100 DM","1 - 4 yrs",2,"female","guarantor",3,"real estate",64,"none","own",1,"skilled employee",1,"none","yes",1
+"1 - 200 DM",18,"delayed","business",2427,"unknown","> 7 yrs",4,"single male","none",2,"building society savings",42,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",24,"delayed","car (new)",2538,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",47,"none","own",2,"unskilled resident",2,"none","yes",2
+"1 - 200 DM",15,"fully repaid this bank","car (new)",1264,"101 - 500 DM","1 - 4 yrs",2,"married male","none",2,"building society savings",25,"none","rent",1,"skilled employee",1,"none","yes",2
+"1 - 200 DM",30,"critical","furniture",8386,"< 100 DM","4 - 7 yrs",2,"single male","none",2,"building society savings",49,"none","own",1,"skilled employee",1,"none","yes",2
+"unknown",48,"repaid","business",4844,"< 100 DM","unemployed",3,"single male","none",2,"other",33,"bank","rent",1,"mangement self-employed",1,"yes","yes",2
+"> 200 DM",21,"repaid","car (new)",2923,"101 - 500 DM","1 - 4 yrs",1,"female","none",1,"other",28,"bank","own",1,"mangement self-employed",1,"yes","yes",1
+"< 0 DM",36,"repaid","car (used)",8229,"< 100 DM","1 - 4 yrs",2,"single male","none",2,"building society savings",26,"none","own",1,"skilled employee",2,"none","yes",2
+"unknown",24,"critical","furniture",2028,"< 100 DM","4 - 7 yrs",2,"single male","none",2,"building society savings",30,"none","own",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",15,"critical","furniture",1433,"< 100 DM","1 - 4 yrs",4,"female","none",3,"building society savings",25,"none","rent",2,"skilled employee",1,"none","yes",1
+"> 200 DM",42,"fully repaid","business",6289,"< 100 DM","0 - 1 yrs",2,"divorced male","none",1,"building society savings",33,"none","own",2,"skilled employee",1,"none","yes",1
+"unknown",13,"repaid","radio/tv",1409,"101 - 500 DM","unemployed",2,"female","none",4,"real estate",64,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",24,"repaid","car (used)",6579,"< 100 DM","unemployed",4,"single male","none",2,"unknown/none",29,"none","for free",1,"mangement self-employed",1,"yes","yes",1
+"1 - 200 DM",24,"critical","radio/tv",1743,"< 100 DM","> 7 yrs",4,"single male","none",2,"building society savings",48,"none","own",2,"unskilled resident",1,"none","yes",1
+"unknown",12,"critical","education",3565,"unknown","0 - 1 yrs",2,"single male","none",1,"building society savings",37,"none","own",2,"unskilled resident",2,"none","yes",1
+"unknown",15,"fully repaid this bank","radio/tv",1569,"101 - 500 DM","> 7 yrs",4,"single male","none",4,"other",34,"bank","own",1,"unskilled resident",2,"none","yes",1
+"< 0 DM",18,"repaid","radio/tv",1936,"unknown","4 - 7 yrs",2,"married male","none",4,"other",23,"none","rent",2,"unskilled resident",1,"none","yes",1
+"< 0 DM",36,"repaid","furniture",3959,"< 100 DM","unemployed",4,"single male","none",3,"building society savings",30,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","car (new)",2390,"unknown","> 7 yrs",4,"single male","none",3,"other",50,"none","own",1,"skilled employee",1,"yes","yes",1
+"unknown",12,"repaid","furniture",1736,"< 100 DM","4 - 7 yrs",3,"female","none",4,"real estate",31,"none","own",1,"unskilled resident",1,"none","yes",1
+"< 0 DM",30,"repaid","car (used)",3857,"< 100 DM","1 - 4 yrs",4,"divorced male","none",4,"building society savings",40,"none","own",1,"mangement self-employed",1,"yes","yes",1
+"unknown",12,"repaid","radio/tv",804,"< 100 DM","> 7 yrs",4,"single male","none",4,"other",38,"none","own",1,"skilled employee",1,"none","yes",1
+"< 0 DM",45,"repaid","radio/tv",1845,"< 100 DM","1 - 4 yrs",4,"single male","none",4,"unknown/none",23,"none","for free",1,"skilled employee",1,"yes","yes",2
+"1 - 200 DM",45,"critical","car (used)",4576,"101 - 500 DM","unemployed",3,"single male","none",4,"other",27,"none","own",1,"skilled employee",1,"none","yes",1
