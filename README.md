@@ -35,7 +35,7 @@ Chapter 6
 ---------
 challenger.csv from https://archive.ics.uci.edu/ml/machine-learning-databases/space-shuttle/
 
-insurance.csv could not be found online
+insurance.csv from Packt Publishing website: https://www.packtpub.com/books/content/support/13251
 
 whitewines.csv from https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
